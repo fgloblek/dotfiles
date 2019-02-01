@@ -1,0 +1,12 @@
+set window-title-basename true
+set statusbar-basename true
+set statusbar-h-padding 0 
+set statusbar-v-padding 0
+set page-padding 1
+map K scroll half-up
+map J scroll half-down
+mapp D toggle_page_mode
+map r reload
+map R rotate
+map i recolor
+map p print
