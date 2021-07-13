@@ -1,0 +1,68 @@
+{
+   "checksum": "282c7ba65aa82a21d7a1ef33b07a7bd5",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13249088916082426",
+            "guid": "13df48ee-6a1b-481f-a8de-6845a22496e9",
+            "id": "5",
+            "name": "Italy Coronavirus: 824,879 Cases and 40,192 Deaths - Worldometer",
+            "type": "url",
+            "url": "https://www.worldometers.info/coronavirus/country/italy/"
+         }, {
+            "date_added": "13250475409769880",
+            "guid": "19f765c4-8c7a-4f74-a7b7-c870ca050612",
+            "id": "7",
+            "name": "Advanced Extreme Home Workout - Scooby's Home Workouts",
+            "type": "url",
+            "url": "https://scoobysworkshop.com/advanced-extreme-home-workout/"
+         }, {
+            "date_added": "13257105963007644",
+            "guid": "70cb9300-d382-4d19-a9c3-7d72ae675da9",
+            "id": "9",
+            "name": "Kanji Koohii",
+            "type": "url",
+            "url": "https://kanji.koohii.com/"
+         }, {
+            "date_added": "13261758692460591",
+            "guid": "be612279-4409-4e21-8b51-182bd3fbd5af",
+            "id": "11",
+            "name": "biological leninism",
+            "type": "url",
+            "url": "https://spandrell.com/2017/11/14/biological-leninism/"
+         }, {
+            "date_added": "13269359377667021",
+            "guid": "c75fcfa1-7361-45de-8459-799ea2040231",
+            "id": "13",
+            "name": "The Dunning-Kruger Effect Is Probably Not Real | Office for Science and Society - McGill University",
+            "type": "url",
+            "url": "https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real"
+         } ],
+         "date_added": "13248543514384253",
+         "date_modified": "13269359377667021",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13248543514384258",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13248543514384259",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,33 @@
+<unity_prefs version_major="1" version_minor="1">
+	<pref name="AudioEnabled" type="int">1</pref>
+	<pref name="FirstTime" type="int">1</pref>
+	<pref name="MusicEnabled" type="int">1</pref>
+	<pref name="Screenmanager Fullscreen mode" type="int">1</pref>
+	<pref name="Screenmanager Resolution Height" type="int">1</pref>
+	<pref name="Screenmanager Resolution Use Native" type="int">0</pref>
+	<pref name="Screenmanager Resolution Width" type="int">1</pref>
+	<pref name="StarsOn" type="int">1</pref>
+	<pref name="UnitySelectMonitor" type="int">0</pref>
+	<pref name="customButton01" type="string">Tm9uZQ==</pref>
+	<pref name="customButtonAxis01" type="string"></pref>
+	<pref name="customControls" type="int">0</pref>
+	<pref name="newnickervision" type="int">0</pref>
+	<pref name="newnickervision2" type="int">0</pref>
+	<pref name="planet02dc" type="int">0</pref>
+	<pref name="planet03dc" type="int">0</pref>
+	<pref name="planet04dc" type="int">0</pref>
+	<pref name="planet05dc" type="int">0</pref>
+	<pref name="planet06dc" type="int">0</pref>
+	<pref name="planet07dc" type="int">0</pref>
+	<pref name="planet08dc" type="int">0</pref>
+	<pref name="planet09dc" type="int">0</pref>
+	<pref name="planet10dc" type="int">0</pref>
+	<pref name="planet11dc" type="int">0</pref>
+	<pref name="planet12dc" type="int">0</pref>
+	<pref name="planet13dc" type="int">0</pref>
+	<pref name="planet14dc" type="int">0</pref>
+	<pref name="planet15dc" type="int">0</pref>
+	<pref name="resolutionCustom" type="int">-1</pref>
+	<pref name="unity.player_session_count" type="string">MQ==</pref>
+	<pref name="unity.player_sessionid" type="string">ODY4NTI0MDAzNzc2MDEyNjQzMg==</pref>
+</unity_prefs>

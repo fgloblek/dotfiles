@@ -14,7 +14,7 @@ settings:
       normal:
         ',n': config-cycle content.user_stylesheets /home/fgloblek/solarized.css ""
         jj: <Esc>
-        jk: <Esc>
+        jk: <leave-mode>
   colors.downloads.error.bg:
     global: red
   colors.downloads.error.fg:
@@ -59,6 +59,8 @@ settings:
     global: null
   content.headers.user_agent:
     global: Mozilla/5.0 (Windows NT 6.3; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0
+  content.images:
+    global: true
   content.pdfjs:
     global: true
   content.proxy:

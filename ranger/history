@@ -1,8 +1,50 @@
-
-search 
-search qute
-search home
-open_with tar -xf
-open_with untar -xf
-open_with tar xf
+search localization
+search century
+search painlev
+search takasaki
+search limits
+search geometry
+search kac
+rename "Wakimoto - Infinite dimensional Lie algebras"
+rename Wakimoto - Infinite dimensional Lie algebras.pdf
+search invern
+search arbar
+search albarell
+search ital
+search zsh
+search babelon
+shell 
+search shmoo
+search sh
+search moody
+search lie
+search abcdefg
+search bershtein
+search instanton counting
+search del monte
+search donagi
+search nekrasov
+search poga
+search pogh
+open_with
+search hollands
+search yoshio
+search twistr
+search twistor
+delete
+search chriss
+search riemann 
+search riemann-hilb
+search segal
+search arbarello
+search arbarel
+search curves
+search griffiths
+search donaldson
+search marino
+search manin
+search painleve
+search bolibru
+open_with zathura
 open_with 
+shell hh:

@@ -1,0 +1,17 @@
+2021/07/06-15:16:31.640 40ab Reusing MANIFEST /home/fgloblek/.config/chromium/Default/IndexedDB/https_www.sofascore.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/06-15:16:33.687 1cf0 Level-0 table #5: started
+2021/07/06-15:16:33.692 1cf0 Level-0 table #5: 718 bytes OK
+2021/07/06-15:16:33.702 1cf0 Delete type=0 #3
+2021/07/06-15:16:33.702 1cf0 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/07/06-15:19:08.225 1cf0 Level-0 table #7: started
+2021/07/06-15:19:08.231 1cf0 Level-0 table #7: 3800 bytes OK
+2021/07/06-15:19:08.238 1cf0 Delete type=0 #4
+2021/07/06-15:19:08.239 1cf0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/07/06-15:19:08.239 1cf0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01.\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x001\x000\x004\x001\x004\x008\x002\x007\x004\x009\x005\x002\x006\x00:\x00w\x00e\x00b\x00:\x009\x003\x006\x005\x006\x009\x009\x00b\x004\x00f\x00f\x006\x008\x00a\x00d\x00e' @ 68 : 1
+2021/07/06-15:19:08.239 1cf0 Compacting 1@1 + 1@2 files
+2021/07/06-15:19:08.245 1cf0 Generated table #8@1: 20 keys, 1261 bytes
+2021/07/06-15:19:08.245 1cf0 Compacted 1@1 + 1@2 files => 1261 bytes
+2021/07/06-15:19:08.253 1cf0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/06-15:19:08.253 1cf0 Delete type=2 #7
+2021/07/06-15:19:08.253 1cf0 Delete type=2 #5
+2021/07/06-15:19:08.254 1cf0 Manual compaction at level-1 from '\x00\x02\x01\x02\x01.\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x001\x000\x004\x001\x004\x008\x002\x007\x004\x009\x005\x002\x006\x00:\x00w\x00e\x00b\x00:\x009\x003\x006\x005\x006\x009\x009\x00b\x004\x00f\x00f\x006\x008\x00a\x00d\x00e' @ 68 : 1 .. (end); will stop at (end)

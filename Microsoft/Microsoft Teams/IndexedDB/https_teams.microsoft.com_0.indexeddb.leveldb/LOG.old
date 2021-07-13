@@ -1,0 +1,12 @@
+2021/04/21-16:17:51.741 7010 Reusing MANIFEST /home/fgloblek/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/04/21-16:17:51.741 7010 Recovering log #68
+2021/04/21-16:17:51.745 7010 Reusing old log /home/fgloblek/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000068.log 
+2021/04/21-17:52:38.483 7f0d Level-0 table #73: started
+2021/04/21-17:52:38.543 7f0d Level-0 table #73: 1648680 bytes OK
+2021/04/21-17:52:38.551 7f0d Delete type=0 #68
+2021/04/21-17:52:38.556 7f0d Compacting 1@1 + 1@2 files
+2021/04/21-17:52:38.602 7f0d Generated table #74@1: 3614 keys, 719149 bytes
+2021/04/21-17:52:38.603 7f0d Compacted 1@1 + 1@2 files => 719149 bytes
+2021/04/21-17:52:38.610 7f0d compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/04/21-17:52:38.610 7f0d Delete type=2 #73
+2021/04/21-17:52:38.610 7f0d Delete type=2 #70

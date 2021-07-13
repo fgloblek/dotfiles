@@ -1,0 +1,8 @@
+2021/07/09-18:18:17.864 6521 Reusing MANIFEST /home/fgloblek/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/09-18:18:17.864 6521 Recovering log #11
+2021/07/09-18:18:17.864 6521 Reusing old log /home/fgloblek/.config/chromium/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000011.log 
+2021/07/09-18:18:24.985 1e21 Level-0 table #15: started
+2021/07/09-18:18:24.985 1e21 Level-0 table #15: 0 bytes OK
+2021/07/09-18:18:24.997 1e21 Delete type=0 #11
+2021/07/09-18:18:24.997 1e21 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/07/09-18:18:24.997 1e21 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

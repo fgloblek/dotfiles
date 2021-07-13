@@ -1,0 +1,187 @@
+{
+  "3b895e19-56df-4787-a101-444b7bdcbe76": {
+    "725dc75a-4c2a-4eee-a1f8-868072540e5f": {
+      "Rows": {
+        "#read": {
+          "action": "",
+          "ignore": [
+            ""
+          ],
+          "include": [
+            ""
+          ],
+          "minimum": "",
+          "prefix": "",
+          "rename_from": "",
+          "rename_to": "",
+          "split_char": "",
+          "suffix": ""
+        },
+        "author_sort": {
+          "action": "",
+          "ignore": [
+            ""
+          ],
+          "include": [
+            ""
+          ],
+          "minimum": "",
+          "prefix": "",
+          "rename_from": "",
+          "rename_to": "",
+          "split_char": "",
+          "suffix": ""
+        },
+        "authors": {
+          "action": "",
+          "ignore": [
+            ""
+          ],
+          "include": [
+            ""
+          ],
+          "minimum": "",
+          "prefix": "",
+          "rename_from": "",
+          "rename_to": "",
+          "split_char": "",
+          "suffix": ""
+        },
+        "languages": {
+          "action": "Create",
+          "ignore": [
+            ""
+          ],
+          "include": [
+            ""
+          ],
+          "minimum": "",
+          "prefix": "",
+          "rename_from": "",
+          "rename_to": "",
+          "split_char": "",
+          "suffix": ""
+        },
+        "publisher": {
+          "action": "",
+          "ignore": [
+            ""
+          ],
+          "include": [
+            ""
+          ],
+          "minimum": "",
+          "prefix": "",
+          "rename_from": "",
+          "rename_to": "",
+          "split_char": "",
+          "suffix": ""
+        },
+        "rating": {
+          "action": "",
+          "ignore": [
+            ""
+          ],
+          "include": [
+            ""
+          ],
+          "minimum": "",
+          "prefix": "",
+          "rename_from": "",
+          "rename_to": "",
+          "split_char": "",
+          "suffix": ""
+        },
+        "series": {
+          "action": "",
+          "ignore": [
+            ""
+          ],
+          "include": [
+            ""
+          ],
+          "minimum": "",
+          "prefix": "",
+          "rename_from": "",
+          "rename_to": "",
+          "split_char": "",
+          "suffix": ""
+        },
+        "tags": {
+          "action": "",
+          "ignore": [
+            ""
+          ],
+          "include": [
+            ""
+          ],
+          "minimum": "",
+          "prefix": "",
+          "rename_from": "",
+          "rename_to": "",
+          "split_char": "",
+          "suffix": ""
+        },
+        "timestamp": {
+          "action": "",
+          "ignore": [
+            ""
+          ],
+          "include": [
+            ""
+          ],
+          "minimum": "",
+          "prefix": "",
+          "rename_from": "",
+          "rename_to": "",
+          "split_char": "",
+          "suffix": ""
+        },
+        "title": {
+          "action": "",
+          "ignore": [
+            ""
+          ],
+          "include": [
+            ""
+          ],
+          "minimum": "",
+          "prefix": "",
+          "rename_from": "",
+          "rename_to": "",
+          "split_char": "",
+          "suffix": ""
+        },
+        "user_categories": {
+          "action": "",
+          "ignore": [
+            ""
+          ],
+          "include": [
+            ""
+          ],
+          "minimum": "",
+          "prefix": "",
+          "rename_from": "",
+          "rename_to": "",
+          "split_char": "",
+          "suffix": ""
+        }
+      },
+      "Settings": {
+        "diff_db_only": false,
+        "fast_reboot": false,
+        "ignore_all": [
+          ""
+        ],
+        "ignore_case": true,
+        "ignore_json_db": false,
+        "ignore_prefix_suffix": true,
+        "keep_kindle_only": true,
+        "kindle_model_version": 5120,
+        "reset_collection_times": true,
+        "store_version": "3"
+      }
+    }
+  }
+}

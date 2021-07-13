@@ -1,0 +1,12 @@
+2021/04/22-10:53:51.340 15b5 Reusing MANIFEST /home/fgloblek/.config/skypeforlinux/Local Storage/leveldb/MANIFEST-000001
+2021/04/22-10:53:51.340 15b5 Recovering log #442
+2021/04/22-10:53:51.340 15b5 Reusing old log /home/fgloblek/.config/skypeforlinux/Local Storage/leveldb/000442.log 
+2021/04/22-10:54:51.855 15a5 Level-0 table #447: started
+2021/04/22-10:54:51.895 15a5 Level-0 table #447: 64768 bytes OK
+2021/04/22-10:54:51.909 15a5 Delete type=0 #442
+2021/04/22-14:03:43.177 2f3b Level-0 table #449: started
+2021/04/22-14:03:43.184 2f3b Level-0 table #449: 72700 bytes OK
+2021/04/22-14:03:43.191 2f3b Delete type=0 #446
+2021/04/22-15:03:44.620 36cb Level-0 table #451: started
+2021/04/22-15:03:44.628 36cb Level-0 table #451: 71899 bytes OK
+2021/04/22-15:03:44.639 36cb Delete type=0 #448

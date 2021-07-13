@@ -1,0 +1,9 @@
+2021/07/09-11:53:31.083 1d04 Reusing MANIFEST /home/fgloblek/.config/chromium/Default/Session Storage/MANIFEST-000001
+2021/07/09-11:53:31.084 1d04 Recovering log #798
+2021/07/09-11:53:31.085 1d04 Reusing old log /home/fgloblek/.config/chromium/Default/Session Storage/000798.log 
+2021/07/10-10:00:10.089 5c5c Level-0 table #801: started
+2021/07/10-10:00:10.097 5c5c Level-0 table #801: 16678 bytes OK
+2021/07/10-10:00:10.106 5c5c Delete type=0 #798
+2021/07/11-19:05:08.273 5c5c Level-0 table #803: started
+2021/07/11-19:05:08.280 5c5c Level-0 table #803: 18466 bytes OK
+2021/07/11-19:05:08.289 5c5c Delete type=0 #800

@@ -1,0 +1,5 @@
+2021/07/01-12:57:52.728 1b2e Reusing MANIFEST /home/fgloblek/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/01-13:04:33.176 c8c Level-0 table #5: started
+2021/07/01-13:04:33.186 c8c Level-0 table #5: 1026198 bytes OK
+2021/07/01-13:04:33.196 c8c Delete type=0 #3
+2021/07/01-13:04:33.196 c8c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

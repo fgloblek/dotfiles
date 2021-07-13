@@ -9,7 +9,9 @@
 #
 # Please see http://i3wm.org/docs/userguide.html for a complete reference!
 
-set $mod Mod4
+set $mod Mod1 
+
+#this is  
 
 # Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below. ISO 10646 = Unicode
@@ -25,7 +27,7 @@ floating_modifier $mod
 
 # start a terminal
 #bindsym $mod+Return exec i3-sensible-terminal
-bindsym $mod+Return exec urxvt
+bindsym $mod+Return exec alacritty
 
 # kill focused window
 bindsym $mod+Shift+q kill
@@ -38,10 +40,10 @@ bindsym $mod+d exec dmenu_run -nb "#000000" -sb "#003366" -l 100
 # bindsym $mod+d exec --no-startup-id i3-dmenu-desktop
 
 # rotate screen and touchscreen and touchpad input
-bindsym $mod+Left exec /home/fgloblek/bin/rotate.sh left; restart
-bindsym $mod+Right exec /home/fgloblek/bin/rotate.sh right; restart
-bindsym $mod+Down exec /home/fgloblek/bin/rotate.sh inverted; restart
-bindsym $mod+Up exec /home/fgloblek/bin/rotate.sh normal; restart 
+bindsym $mod+Left exec /home/fgloblek/bin/rotate.sh left; reload
+bindsym $mod+Right exec /home/fgloblek/bin/rotate.sh right; reload
+bindsym $mod+Down exec /home/fgloblek/bin/rotate.sh inverted; reload
+bindsym $mod+Up exec /home/fgloblek/bin/rotate.sh normal; reload
 
 # switch focus 
 bindsym $mod+h focus left
@@ -68,7 +70,7 @@ bindsym $mod+Shift+Up move up
 bindsym $mod+Shift+Right move right
 
 # lock
-bindsym $mod+Shift+x exec --no-startup-id i3lock -c 088da5 -n
+bindsym $mod+x exec --no-startup-id i3lock -c 088da5 -n
 exec --no-startup-id unity-settings-daemon
 
 # toggle between vertical and horizontal orientation
@@ -78,7 +80,7 @@ bindsym $mod+w layout toggle split
 bindsym $mod+e layout toggle tabbed stacking
 
 # default layout
-bindsym $mod+q layout default
+bindsym $mod+s layout default
 
 # enter fullscreen mode for the focused container
 bindsym $mod+f fullscreen
@@ -96,11 +98,13 @@ bindsym $mod+a focus parent
 #bindsym $mod+d focus child
 
 set $workspace1 "1 Ranger"
-set $workspace2 "2"
+set $workspace2 "2 Zim"
 set $workspace3 "3 Docs"
 set $workspace4 "4 Qute"
 set $workspace5 "5 Mail"
 set $workspace6 "6 Xournal"
+set $workspace7 "7 TeX"
+set $workspace8 "8 Anki"
 set $workspace10 "10 Music"
 
 # switch to workspace
@@ -110,8 +114,8 @@ bindsym $mod+3 workspace $workspace3
 bindsym $mod+4 workspace $workspace4
 bindsym $mod+5 workspace $workspace5
 bindsym $mod+6 workspace $workspace6
-bindsym $mod+7 workspace 7
-bindsym $mod+8 workspace 8
+bindsym $mod+7 workspace $workspace7
+bindsym $mod+8 workspace $workspace8
 bindsym $mod+9 workspace 9
 bindsym $mod+0 workspace $workspace10
 
@@ -122,32 +126,43 @@ bindsym $mod+Shift+3 move container to workspace $workspace3
 bindsym $mod+Shift+4 move container to workspace $workspace4
 bindsym $mod+Shift+5 move container to workspace $workspace5
 bindsym $mod+Shift+6 move container to workspace $workspace6
-bindsym $mod+Shift+7 move container to workspace 7
-bindsym $mod+Shift+8 move container to workspace 8
+bindsym $mod+Shift+7 move container to workspace $workspace7
+bindsym $mod+Shift+8 move container to workspace $workspace8
 bindsym $mod+Shift+9 move container to workspace 9
 bindsym $mod+Shift+0 move container to workspace $workspace10
 
+assign [class="Zim"] $workspace2
 assign [class="Clementine"] $workspace10
 assign [class="okular"] $workspace3
 #assign [class="Evince"] $workspace3
 assign [class="Zathura"] $workspace3
 assign [class="Vivaldi-stable"] $workspace4
 assign [class="Firefox"] $workspace4
+assign [class="Konqueror"] $workspace4
+assign [class="Chromium"] $workspace4
 assign [class="qutebrowser"] $workspace4
 assign [class="Nemo"] $workspace2
 assign [class="Xournal"] $workspace6
 assign [class="Thunderbird"] $workspace5
+assign [class="Telegram"] $workspace5
+assign [class="TeXstudio"] $workspace7
+assign [class="Anki"] $workspace8
+assign [class="Spotify Premium"] $workspace10
 for_window [class="Florence"] floating enable
-exec_always unclutter -idle 1 -noevents -root
+exec setxkbmap -layout hr,ru -variants ,phonetic -option grp:caps_toggle # otherwise objectively useless Caps toggles hr and phonetic ru layout
+exec_always unclutter -idle 1 -noevents -root                         # removes mouse after 1 second idle
 #exec xournal
+exec zim
 exec urxvt -e ranger
-exec redshift-gtk
+exec redshift-gtk                                                     # start redshift, free f.lux alternative
 # exec clementine
 exec qutebrowser
 exec thunderbird
 exec zathura
 exec nm-applet
-exec --no-startup-id synclient VertEdgeScroll=1 VertTwoFingerScroll=1 TapButton1=1 TapButton2=3 TapButton3=2 RightEdge=2800
+#some touchpad geometry configuration:
+exec --no-startup-id synclient VertEdgeScroll=1 VertTwoFingerScroll=1 TapButton1=1 TapButton2=3 TapButton3=2 RightEdge=2800 
+exec udiskie
 
 #screenshot
 bindsym $mod+u exec "scrot -q 100 /home/fgloblek/Pictures/Screenshots/%b%d::%H%M%S.png"
@@ -203,6 +218,8 @@ client.urgent $urgent-bg-color $urgent-bg-color $text-color #00ff00
 # finds out, if available)
 bar {
   	status_command i3status
+    workspace_buttons yes
+    tray_output primary 
 	position bottom
 	height 25
 	colors {
@@ -227,8 +244,11 @@ bindsym XF86AudioLowerVolume exec --no-startup-id pactl -- set-sink-volume 0 -2%
 bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute 0 toggle # mute sound
 
 # Sreen brightness controls
-bindsym XF86MonBrightnessUp exec xbacklight -inc 10 # increase screen brightness
-bindsym XF86MonBrightnessDown exec xbacklight -dec 10 # decrease screen brightness
+#bindsym XF86MonBrightnessUp exec brightnessctl +10 # increase screen brightness
+#bindsym XF86MonBrightnessDown exec brightnessctl -10 # decrease screen brightness
+# ALT Sreen brightness controls
+bindsym $mod+Shift+b exec brightnessctl s +1% # increase screen brightness
+bindsym $mod+b exec brightnessctl s 1%- # decrease screen brightness
  
 #wallpaper
 exec_always feh --bg-center --randomize ~/.wallpapers
@@ -236,7 +256,7 @@ exec_always feh --bg-center --randomize ~/.wallpapers
 
 ##UNCOMMENT IF i3GAPS NOT IN USE
 # Borders 
-hide_edge_borders both
+#hide_edge_borders both
 smart_borders on
 
 # Gaps

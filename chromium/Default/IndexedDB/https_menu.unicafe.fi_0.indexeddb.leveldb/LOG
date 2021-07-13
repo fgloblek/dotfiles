@@ -1,0 +1,15 @@
+2021/07/07-11:17:31.681 7332 Reusing MANIFEST /home/fgloblek/.config/chromium/Default/IndexedDB/https_menu.unicafe.fi_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/07-11:17:31.681 7332 Recovering log #4
+2021/07/07-11:17:31.681 7332 Reusing old log /home/fgloblek/.config/chromium/Default/IndexedDB/https_menu.unicafe.fi_0.indexeddb.leveldb/000004.log 
+2021/07/07-14:07:34.208 1cf0 Level-0 table #8: started
+2021/07/07-14:07:34.214 1cf0 Level-0 table #8: 2812 bytes OK
+2021/07/07-14:07:34.222 1cf0 Delete type=0 #4
+2021/07/07-14:07:34.223 1cf0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/07/07-14:07:34.223 1cf0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01\x0c\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00d\x00a\x00t\x00a' @ 330 : 0
+2021/07/07-14:07:34.223 1cf0 Compacting 1@1 + 1@2 files
+2021/07/07-14:07:34.230 1cf0 Generated table #9@1: 42 keys, 1245 bytes
+2021/07/07-14:07:34.230 1cf0 Compacted 1@1 + 1@2 files => 1245 bytes
+2021/07/07-14:07:34.241 1cf0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/07-14:07:34.241 1cf0 Delete type=2 #8
+2021/07/07-14:07:34.241 1cf0 Delete type=2 #5
+2021/07/07-14:07:34.241 1cf0 Manual compaction at level-1 from '\x00\x01\x01\x03\x01\x0c\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00d\x00a\x00t\x00a' @ 330 : 0 .. (end); will stop at (end)

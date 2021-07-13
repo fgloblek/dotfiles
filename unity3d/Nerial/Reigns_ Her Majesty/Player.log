@@ -1,0 +1,961 @@
+Desktop is 1920 x 1080 @ 60 Hz
+New context 0xbbe9ed0 created with attributes:
+Initialize engine version: 2017.4.1f1 (9231f953d9d3)
+GfxDevice: creating device client; threaded=1
+Renderer: Mesa Intel(R) UHD Graphics 620 (KBL GT2)
+Vendor:   Intel
+Version:  4.6 (Core Profile) Mesa 20.2.0-devel (git-c794334 2020-05-25 bionic-oibaf-ppa)
+GLES:     0
+ GL_3DFX_texture_compression_FXT1 GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB
+_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_po
+int_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier G
+L_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewpor
+t_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_shader_framebuffer_fetch GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback G
+L_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_conservative_rasterization GL_INTEL_performance_query GL_INTEL_shader_atomic_float_minmax GL_INTEL_shader_integer_functions2 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_fragment_shader_interlock GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 197041872
+AudioManager: Using PulseAudio: Default Output Device
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.092 seconds
+New context 0xbfcc980 created with attributes:
+Default vsync count 1
+requesting resize 600 x 800
+resizing window to 600 x 800
+Desktop is 1920 x 1080 @ 60 Hz
+UnloadTime: 3.798000 ms
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/data-0xc074260.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/data-0xc09b540.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/data-0xc0aaa30.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/./libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/./libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/./libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/./libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/./libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/./libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/./libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/./libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/./libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/./libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/./libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/./libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/./libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/./libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/./libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/./libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/./libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/./libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/./libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/./libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/./libudev.so
+Fallback handler could not load library /home/fgloblek/.local/share/Steam/steamapps/common/Reigns Her Majesty/Reigns2_Data/Mono/x86/libudev.so
+Desktop is 1920 x 1080 @ 60 Hz
+The referenced script on this Behaviour (Game Object 'gpgs') is missing!
+ 
+(Filename:  Line: 1758)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.915000 ms
+version is 
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 6102.
+Total: 29.149000 ms (FindLiveObjects: 1.155000 ms CreateObjectMapping: 0.163000 ms MarkObjects: 27.772000 ms  DeleteObjects: 0.059000 ms)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[WARNING] Rewired: The Action "upInventory" does not exist. You can create Actions in the editor.
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 6110.
+Total: 100.891000 ms (FindLiveObjects: 3.651000 ms CreateObjectMapping: 0.810000 ms MarkObjects: 96.342000 ms  DeleteObjects: 0.084000 ms)
+
+True
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6177.
+Total: 107.166000 ms (FindLiveObjects: 8.991000 ms CreateObjectMapping: 0.649000 ms MarkObjects: 97.490000 ms  DeleteObjects: 0.033000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6178.
+Total: 103.895000 ms (FindLiveObjects: 8.093000 ms CreateObjectMapping: 0.889000 ms MarkObjects: 94.886000 ms  DeleteObjects: 0.025000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6178.
+Total: 102.242000 ms (FindLiveObjects: 7.374000 ms CreateObjectMapping: 2.815000 ms MarkObjects: 92.027000 ms  DeleteObjects: 0.023000 ms)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.MonoBehaviour:StopCoroutine (string)
+  at ModalAct.Close () [0x00000] in <filename unknown>:0 
+  at InputAct.StopCheckAction () [0x00000] in <filename unknown>:0 
+  at InputAct+<CheckAction>c__Iterator3.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 6181.
+Total: 106.061000 ms (FindLiveObjects: 10.157000 ms CreateObjectMapping: 0.997000 ms MarkObjects: 94.837000 ms  DeleteObjects: 0.069000 ms)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 6181.
+Total: 102.633000 ms (FindLiveObjects: 3.153000 ms CreateObjectMapping: 0.394000 ms MarkObjects: 99.025000 ms  DeleteObjects: 0.059000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 6117.
+Total: 94.866000 ms (FindLiveObjects: 3.005000 ms CreateObjectMapping: 0.762000 ms MarkObjects: 90.994000 ms  DeleteObjects: 0.101000 ms)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6181.
+Total: 106.918000 ms (FindLiveObjects: 9.346000 ms CreateObjectMapping: 1.711000 ms MarkObjects: 95.830000 ms  DeleteObjects: 0.028000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 6180.
+Total: 109.208000 ms (FindLiveObjects: 6.651000 ms CreateObjectMapping: 0.547000 ms MarkObjects: 101.974000 ms  DeleteObjects: 0.036000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 6114.
+Total: 78.572000 ms (FindLiveObjects: 2.705000 ms CreateObjectMapping: 0.314000 ms MarkObjects: 75.462000 ms  DeleteObjects: 0.091000 ms)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6115.
+Total: 94.233000 ms (FindLiveObjects: 4.017000 ms CreateObjectMapping: 0.492000 ms MarkObjects: 89.692000 ms  DeleteObjects: 0.031000 ms)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 6114.
+Total: 100.151000 ms (FindLiveObjects: 3.431000 ms CreateObjectMapping: 0.751000 ms MarkObjects: 95.837000 ms  DeleteObjects: 0.129000 ms)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6115.
+Total: 104.687000 ms (FindLiveObjects: 5.197000 ms CreateObjectMapping: 0.956000 ms MarkObjects: 98.511000 ms  DeleteObjects: 0.023000 ms)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 6115.
+Total: 87.070000 ms (FindLiveObjects: 4.760000 ms CreateObjectMapping: 0.588000 ms MarkObjects: 81.687000 ms  DeleteObjects: 0.034000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 6114.
+Total: 72.181000 ms (FindLiveObjects: 2.289000 ms CreateObjectMapping: 0.703000 ms MarkObjects: 69.111000 ms  DeleteObjects: 0.078000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6372.
+Total: 93.015000 ms (FindLiveObjects: 3.255000 ms CreateObjectMapping: 0.677000 ms MarkObjects: 89.064000 ms  DeleteObjects: 0.019000 ms)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6115.
+Total: 102.908000 ms (FindLiveObjects: 3.091000 ms CreateObjectMapping: 0.414000 ms MarkObjects: 99.381000 ms  DeleteObjects: 0.021000 ms)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6114.
+Total: 29.599000 ms (FindLiveObjects: 1.142000 ms CreateObjectMapping: 0.168000 ms MarkObjects: 28.280000 ms  DeleteObjects: 0.008000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6115.
+Total: 107.176000 ms (FindLiveObjects: 12.961000 ms CreateObjectMapping: 1.444000 ms MarkObjects: 92.740000 ms  DeleteObjects: 0.028000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 6114.
+Total: 112.911000 ms (FindLiveObjects: 13.736000 ms CreateObjectMapping: 1.342000 ms MarkObjects: 97.710000 ms  DeleteObjects: 0.121000 ms)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6178.
+Total: 104.801000 ms (FindLiveObjects: 9.324000 ms CreateObjectMapping: 0.824000 ms MarkObjects: 94.536000 ms  DeleteObjects: 0.112000 ms)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 6178.
+Total: 93.276000 ms (FindLiveObjects: 8.467000 ms CreateObjectMapping: 1.223000 ms MarkObjects: 83.534000 ms  DeleteObjects: 0.050000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 6114.
+Total: 105.273000 ms (FindLiveObjects: 3.900000 ms CreateObjectMapping: 1.304000 ms MarkObjects: 99.943000 ms  DeleteObjects: 0.123000 ms)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6177.
+Total: 87.487000 ms (FindLiveObjects: 12.970000 ms CreateObjectMapping: 1.143000 ms MarkObjects: 73.354000 ms  DeleteObjects: 0.018000 ms)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 6183.
+Total: 87.410000 ms (FindLiveObjects: 7.267000 ms CreateObjectMapping: 0.385000 ms MarkObjects: 79.409000 ms  DeleteObjects: 0.347000 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.MonoBehaviour:StopCoroutine (string)
+  at ModalAct.Close () [0x00000] in <filename unknown>:0 
+  at InputAct.StopCheckAction () [0x00000] in <filename unknown>:0 
+  at InputAct+<CheckAction>c__Iterator3.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 6187.
+Total: 89.807000 ms (FindLiveObjects: 8.140000 ms CreateObjectMapping: 1.024000 ms MarkObjects: 80.615000 ms  DeleteObjects: 0.026000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 6120.
+Total: 90.203000 ms (FindLiveObjects: 6.201000 ms CreateObjectMapping: 1.241000 ms MarkObjects: 82.693000 ms  DeleteObjects: 0.067000 ms)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6184.
+Total: 93.250000 ms (FindLiveObjects: 9.211000 ms CreateObjectMapping: 0.878000 ms MarkObjects: 83.073000 ms  DeleteObjects: 0.085000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 6181.
+Total: 92.867000 ms (FindLiveObjects: 9.234000 ms CreateObjectMapping: 0.686000 ms MarkObjects: 82.820000 ms  DeleteObjects: 0.123000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 6117.
+Total: 92.601000 ms (FindLiveObjects: 6.966000 ms CreateObjectMapping: 1.817000 ms MarkObjects: 83.749000 ms  DeleteObjects: 0.068000 ms)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 6180.
+Total: 88.670000 ms (FindLiveObjects: 11.036000 ms CreateObjectMapping: 1.278000 ms MarkObjects: 76.280000 ms  DeleteObjects: 0.074000 ms)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 6181.
+Total: 91.302000 ms (FindLiveObjects: 8.159000 ms CreateObjectMapping: 0.897000 ms MarkObjects: 82.161000 ms  DeleteObjects: 0.083000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 6117.
+Total: 73.789000 ms (FindLiveObjects: 3.321000 ms CreateObjectMapping: 0.319000 ms MarkObjects: 70.070000 ms  DeleteObjects: 0.076000 ms)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6117.
+Total: 77.117000 ms (FindLiveObjects: 3.148000 ms CreateObjectMapping: 0.487000 ms MarkObjects: 73.452000 ms  DeleteObjects: 0.028000 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Behaviour:get_isActiveAndEnabled ()
+  at ObjectiveAct+<DoHideAssigned>c__Iterator1.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+UnityEngine.MonoBehaviour:StartCoroutine_Auto_Internal(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<DoShowObjectives>c__Iterator0:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+ 
+(Filename:  Line: -1)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 6120.
+Total: 62.743000 ms (FindLiveObjects: 7.698000 ms CreateObjectMapping: 0.992000 ms MarkObjects: 54.003000 ms  DeleteObjects: 0.050000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 6124.
+Total: 62.444000 ms (FindLiveObjects: 7.275000 ms CreateObjectMapping: 1.244000 ms MarkObjects: 53.860000 ms  DeleteObjects: 0.063000 ms)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6124.
+Total: 116.021000 ms (FindLiveObjects: 11.472000 ms CreateObjectMapping: 1.946000 ms MarkObjects: 102.581000 ms  DeleteObjects: 0.018000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 6123.
+Total: 76.414000 ms (FindLiveObjects: 7.041000 ms CreateObjectMapping: 1.341000 ms MarkObjects: 67.971000 ms  DeleteObjects: 0.058000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6429.
+Total: 82.425000 ms (FindLiveObjects: 8.626000 ms CreateObjectMapping: 1.077000 ms MarkObjects: 72.703000 ms  DeleteObjects: 0.016000 ms)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 6123.
+Total: 86.256000 ms (FindLiveObjects: 8.549000 ms CreateObjectMapping: 1.437000 ms MarkObjects: 76.232000 ms  DeleteObjects: 0.037000 ms)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6187.
+Total: 87.598000 ms (FindLiveObjects: 6.350000 ms CreateObjectMapping: 0.846000 ms MarkObjects: 80.383000 ms  DeleteObjects: 0.017000 ms)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 6120.
+Total: 94.846000 ms (FindLiveObjects: 8.841000 ms CreateObjectMapping: 1.885000 ms MarkObjects: 84.043000 ms  DeleteObjects: 0.070000 ms)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6184.
+Total: 89.671000 ms (FindLiveObjects: 8.664000 ms CreateObjectMapping: 0.949000 ms MarkObjects: 80.039000 ms  DeleteObjects: 0.017000 ms)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 6120.
+Total: 88.897000 ms (FindLiveObjects: 6.782000 ms CreateObjectMapping: 1.492000 ms MarkObjects: 80.560000 ms  DeleteObjects: 0.061000 ms)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6184.
+Total: 89.842000 ms (FindLiveObjects: 8.591000 ms CreateObjectMapping: 0.969000 ms MarkObjects: 80.265000 ms  DeleteObjects: 0.017000 ms)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6184.
+Total: 41.442000 ms (FindLiveObjects: 4.810000 ms CreateObjectMapping: 0.917000 ms MarkObjects: 35.708000 ms  DeleteObjects: 0.007000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 6120.
+Total: 43.625000 ms (FindLiveObjects: 6.922000 ms CreateObjectMapping: 0.913000 ms MarkObjects: 35.756000 ms  DeleteObjects: 0.034000 ms)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 6183.
+Total: 44.136000 ms (FindLiveObjects: 6.976000 ms CreateObjectMapping: 0.913000 ms MarkObjects: 36.232000 ms  DeleteObjects: 0.015000 ms)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 6184.
+Total: 42.701000 ms (FindLiveObjects: 7.282000 ms CreateObjectMapping: 0.706000 ms MarkObjects: 34.698000 ms  DeleteObjects: 0.014000 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.MonoBehaviour:StopCoroutine (string)
+  at ModalAct.Close () [0x00000] in <filename unknown>:0 
+  at InputAct.StopCheckAction () [0x00000] in <filename unknown>:0 
+  at InputAct+<CheckAction>c__Iterator3.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 6120.
+Total: 43.460000 ms (FindLiveObjects: 6.652000 ms CreateObjectMapping: 1.048000 ms MarkObjects: 35.729000 ms  DeleteObjects: 0.029000 ms)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6183.
+Total: 47.287000 ms (FindLiveObjects: 6.546000 ms CreateObjectMapping: 1.140000 ms MarkObjects: 39.591000 ms  DeleteObjects: 0.009000 ms)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 6180.
+Total: 42.971000 ms (FindLiveObjects: 6.810000 ms CreateObjectMapping: 0.942000 ms MarkObjects: 35.187000 ms  DeleteObjects: 0.030000 ms)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 6181.
+Total: 42.692000 ms (FindLiveObjects: 7.864000 ms CreateObjectMapping: 0.398000 ms MarkObjects: 34.395000 ms  DeleteObjects: 0.033000 ms)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 6117.
+Total: 44.406000 ms (FindLiveObjects: 6.658000 ms CreateObjectMapping: 1.034000 ms MarkObjects: 36.698000 ms  DeleteObjects: 0.015000 ms)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6181.
+Total: 49.167000 ms (FindLiveObjects: 6.701000 ms CreateObjectMapping: 0.984000 ms MarkObjects: 41.474000 ms  DeleteObjects: 0.008000 ms)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 6117.
+Total: 46.841000 ms (FindLiveObjects: 7.013000 ms CreateObjectMapping: 1.005000 ms MarkObjects: 38.803000 ms  DeleteObjects: 0.018000 ms)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6181.
+Total: 49.277000 ms (FindLiveObjects: 6.264000 ms CreateObjectMapping: 0.889000 ms MarkObjects: 42.116000 ms  DeleteObjects: 0.008000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 6117.
+Total: 46.607000 ms (FindLiveObjects: 6.389000 ms CreateObjectMapping: 1.024000 ms MarkObjects: 39.159000 ms  DeleteObjects: 0.033000 ms)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6181.
+Total: 43.789000 ms (FindLiveObjects: 6.515000 ms CreateObjectMapping: 0.674000 ms MarkObjects: 36.591000 ms  DeleteObjects: 0.008000 ms)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 6117.
+Total: 45.717000 ms (FindLiveObjects: 4.903000 ms CreateObjectMapping: 1.531000 ms MarkObjects: 39.249000 ms  DeleteObjects: 0.031000 ms)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 6117.
+Total: 45.587000 ms (FindLiveObjects: 6.648000 ms CreateObjectMapping: 0.907000 ms MarkObjects: 38.000000 ms  DeleteObjects: 0.032000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6117.
+Total: 44.999000 ms (FindLiveObjects: 6.899000 ms CreateObjectMapping: 1.063000 ms MarkObjects: 37.026000 ms  DeleteObjects: 0.007000 ms)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 6177.
+Total: 49.356000 ms (FindLiveObjects: 6.488000 ms CreateObjectMapping: 0.507000 ms MarkObjects: 42.307000 ms  DeleteObjects: 0.053000 ms)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 6178.
+Total: 43.842000 ms (FindLiveObjects: 6.398000 ms CreateObjectMapping: 0.876000 ms MarkObjects: 36.523000 ms  DeleteObjects: 0.043000 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 6114.
+Total: 44.157000 ms (FindLiveObjects: 6.786000 ms CreateObjectMapping: 1.007000 ms MarkObjects: 36.327000 ms  DeleteObjects: 0.034000 ms)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 6177.
+Total: 48.918000 ms (FindLiveObjects: 6.976000 ms CreateObjectMapping: 0.917000 ms MarkObjects: 40.988000 ms  DeleteObjects: 0.035000 ms)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.MonoBehaviour:StopCoroutine (string)
+  at ModalAct.Close () [0x00000] in <filename unknown>:0 
+  at InputAct.StopCheckAction () [0x00000] in <filename unknown>:0 
+  at InputAct+<CheckAction>c__Iterator3.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 6117.
+Total: 51.479000 ms (FindLiveObjects: 7.078000 ms CreateObjectMapping: 1.053000 ms MarkObjects: 43.293000 ms  DeleteObjects: 0.054000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6117.
+Total: 53.442000 ms (FindLiveObjects: 6.855000 ms CreateObjectMapping: 1.109000 ms MarkObjects: 45.465000 ms  DeleteObjects: 0.008000 ms)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6181.
+Total: 43.151000 ms (FindLiveObjects: 6.816000 ms CreateObjectMapping: 0.888000 ms MarkObjects: 35.437000 ms  DeleteObjects: 0.008000 ms)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.MonoBehaviour:StopCoroutine (string)
+  at ModalAct.Close () [0x00000] in <filename unknown>:0 
+  at InputAct.StopCheckAction () [0x00000] in <filename unknown>:0 
+  at InputAct+<CheckAction>c__Iterator3.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 6181.
+Total: 44.274000 ms (FindLiveObjects: 7.073000 ms CreateObjectMapping: 1.064000 ms MarkObjects: 36.120000 ms  DeleteObjects: 0.016000 ms)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 6117.
+Total: 44.015000 ms (FindLiveObjects: 6.830000 ms CreateObjectMapping: 1.009000 ms MarkObjects: 36.144000 ms  DeleteObjects: 0.030000 ms)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6181.
+Total: 41.370000 ms (FindLiveObjects: 6.235000 ms CreateObjectMapping: 0.940000 ms MarkObjects: 34.185000 ms  DeleteObjects: 0.007000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6181.
+Total: 47.614000 ms (FindLiveObjects: 6.811000 ms CreateObjectMapping: 0.864000 ms MarkObjects: 39.929000 ms  DeleteObjects: 0.009000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6181.
+Total: 45.082000 ms (FindLiveObjects: 5.825000 ms CreateObjectMapping: 1.189000 ms MarkObjects: 38.059000 ms  DeleteObjects: 0.008000 ms)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 6180.
+Total: 60.635000 ms (FindLiveObjects: 7.169000 ms CreateObjectMapping: 0.624000 ms MarkObjects: 52.784000 ms  DeleteObjects: 0.057000 ms)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 6183.
+Total: 58.158000 ms (FindLiveObjects: 6.660000 ms CreateObjectMapping: 0.774000 ms MarkObjects: 50.671000 ms  DeleteObjects: 0.052000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6184.
+Total: 42.489000 ms (FindLiveObjects: 5.365000 ms CreateObjectMapping: 0.932000 ms MarkObjects: 36.183000 ms  DeleteObjects: 0.008000 ms)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 6131.
+Total: 52.374000 ms (FindLiveObjects: 6.863000 ms CreateObjectMapping: 1.091000 ms MarkObjects: 44.356000 ms  DeleteObjects: 0.062000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6131.
+Total: 56.576000 ms (FindLiveObjects: 7.011000 ms CreateObjectMapping: 0.969000 ms MarkObjects: 48.586000 ms  DeleteObjects: 0.009000 ms)
+
+True
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6541.
+Total: 52.137000 ms (FindLiveObjects: 9.243000 ms CreateObjectMapping: 1.074000 ms MarkObjects: 41.811000 ms  DeleteObjects: 0.008000 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 19.054000 ms
+
+Unloading 214 unused Assets to reduce memory usage. Loaded Objects now: 2250.
+Total: 21.073000 ms (FindLiveObjects: 0.652000 ms CreateObjectMapping: 0.099000 ms MarkObjects: 20.075000 ms  DeleteObjects: 0.246000 ms)
+
+The referenced script on this Behaviour (Game Object 'gpgs') is missing!
+ 
+(Filename:  Line: 1758)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.729000 ms
+version is 1.25
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+do start delayed
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 6027.
+Total: 23.583000 ms (FindLiveObjects: 1.460000 ms CreateObjectMapping: 0.192000 ms MarkObjects: 21.525000 ms  DeleteObjects: 0.404000 ms)
+
+got to play music
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+stop musicUnityEngine.Coroutine
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 6037.
+Total: 43.998000 ms (FindLiveObjects: 6.910000 ms CreateObjectMapping: 1.011000 ms MarkObjects: 36.061000 ms  DeleteObjects: 0.016000 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 6118.
+Total: 48.597000 ms (FindLiveObjects: 7.279000 ms CreateObjectMapping: 1.194000 ms MarkObjects: 40.113000 ms  DeleteObjects: 0.008000 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: b76feb40 -> priority: 1 
+  Thread -> id: b6efdb40 -> priority: 1 
+  Thread -> id: b66fcb40 -> priority: 1 
+  Thread -> id: b5efbb40 -> priority: 1 

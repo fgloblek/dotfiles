@@ -1,0 +1,151 @@
+{
+  "check-book-splitter-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAEAAAACAAAARgAAAEYA/////wEAAAABAA=="
+  },
+  "custom_colors_for_color_dialog": [
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ],
+    [
+      255,
+      255,
+      255,
+      255
+    ]
+  ],
+  "find-widget-state": {
+    "case_sensitive": false,
+    "direction": "down",
+    "dot_all": false,
+    "mode": "regex",
+    "where": "current",
+    "wrap": true
+  },
+  "html-editor-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAD9AAAAAAAAA/QAAALaAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGEAYwB0AGkAbwBuAF8AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAF8AYgBhAHIBAAAA3f////8AAAAAAAAAAAAAAB4AaAB0AG0AbABfAGYAbwByAG0AYQB0AF8AYgBhAHIBAAABv/////8AAAAAAAAAAA=="
+  },
+  "image-editor-state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAD9AAAAAAAAA/QAAALaAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGEAYwB0AGkAbwBuAF8AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAACAAZQBkAGkAdAAtAGEAYwB0AGkAbwBuAHMALQBiAGEAcgEAAABS/////wAAAAAAAAAAAAAAHABpAG0AYQBnAGUAXwBpAG4AZgBvAF8AYgBhAHIBAAABNv////8AAAAAAAAAAA=="
+  },
+  "main_window_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAAAAAAAEgAAB38AAAQeAAAAAAAAABIAAAd/AAAEHgAAAAAAAAAAB4AAAAAAAAAAEgAAB38AAAQe"
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAD9AAAABAAAAAAAAAEAAAADHfwCAAAABfsAAAAkAGYAaQBsAGUAcwAtAGIAcgBvAHcAcwBlAHIALQBkAG8AYwBrAQAAADwAAAMdAAAAWQD////7AAAAHgB0AG8AYwAtAHYAaQBlAHcAZQByAC0AZABvAGMAawAAAAAA/////wAAAFkA////+wAAACAAdABlAHgAdAAtAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAA/////wAAAHkA////+wAAACAAYwBoAGUAYwBrAHAAbwBpAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAIkA////+wAAACYAcwBhAHYAZQBkAC0AcwBlAGEAcgBjAGgAZQBzAC0AZABvAGMAawAAAAAA/////wAAAfkA////AAAAAQAAAoAAAAMd/AIAAAAC+wAAABgAcAByAGUAdgBpAGUAdwAtAGQAbwBjAGsBAAAAPAAAAx0AAABQAP////sAAAAaAGwAaQB2AGUALQBjAHMAcwAtAGQAbwBjAGsAAAAAAP////8AAABZAP///wAAAAIAAAAAAAAAAPwBAAAAAfsAAAAeAGMAaABlAGMAawAtAGIAbwBvAGsALQBkAG8AYwBrAAAAAAD/////AAAAkAD///8AAAADAAAHgAAAAJf8AQAAAAH7AAAAHABpAG4AcwBwAGUAYwB0AG8AcgAtAGQAbwBjAGsBAAAAAAAAB4AAAAA6AP///wAAA/QAAAMdAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAMAAAAUAGcAbABvAGIAYQBsAC0AYgBhAHIBAAAAAP////8AAAAAAAAAAAAAABIAdABvAG8AbABzAC0AYgBhAHIBAAABJv////8AAAAAAAAAAAAAABYAcABsAHUAZwBpAG4AcwAtAGIAYQByAAAAAAD/////AAAAAAAAAAA="
+  },
+  "recent-books": [
+    "/home/fgloblek/Calibre Library/Stevens Coon Carleton_/The Races Of Europe (1223)/The Races Of Europe - Stevens Coon Carleton_.epub",
+    "/home/fgloblek/Calibre Library/Unknown/The Zoist (1222)/The Zoist - Unknown.epub",
+    "/home/fgloblek/Calibre Library/Raido/A Handbook of Traditional Living (1209)/A Handbook of Traditional Living - Raido.epub",
+    "/home/fgloblek/Calibre Library/Friedrich II Hohenzollern/The Refutation of Machiavelli's Prince or, Anti-Machiavel (1168)/The Refutation of Machiavelli's Prince or, - Friedrich II Hohenzollern.epub",
+    "/home/fgloblek/Calibre Library/Lowith Karl/Meaning In History (1154)/Meaning In History - Lowith Karl.epub",
+    "/home/fgloblek/Calibre Library/Boris Gregoric/Kali Juga (1140)/Kali Juga - Boris Gregoric.epub",
+    "/home/fgloblek/Calibre Library/Besim Korkut/Kur'an (1106)/Kur'an - Besim Korkut.epub",
+    "/home/fgloblek/Calibre Library/Luigi Capuana/Il marchese di Roccaverdina (544)/Il marchese di Roccaverdina - Luigi Capuana.epub"
+  ],
+  "reports-ui-state": {},
+  "saved_seaches_state": {
+    "direction": "down",
+    "where": "current",
+    "wrap": true
+  },
+  "search-panel-visible": false,
+  "text_search_widget_state": {
+    "case_sensitive": false,
+    "dot_all": true,
+    "mode": "normal",
+    "where": "current"
+  }
+}

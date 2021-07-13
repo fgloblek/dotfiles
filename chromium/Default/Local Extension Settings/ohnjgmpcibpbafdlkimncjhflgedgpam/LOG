@@ -1,0 +1,12 @@
+2021/07/09-11:53:57.395 2110 Reusing MANIFEST /home/fgloblek/.config/chromium/Default/Local Extension Settings/ohnjgmpcibpbafdlkimncjhflgedgpam/MANIFEST-000001
+2021/07/09-11:53:57.396 2110 Recovering log #324
+2021/07/09-11:53:57.404 2110 Reusing old log /home/fgloblek/.config/chromium/Default/Local Extension Settings/ohnjgmpcibpbafdlkimncjhflgedgpam/000324.log 
+2021/07/12-12:50:06.010 46df Level-0 table #330: started
+2021/07/12-12:50:06.073 46df Level-0 table #330: 1230570 bytes OK
+2021/07/12-12:50:06.085 46df Delete type=0 #324
+2021/07/12-13:14:22.999 46df Compacting 1@0 + 1@1 files
+2021/07/12-13:14:23.011 46df Generated table #331@0: 2 keys, 28763 bytes
+2021/07/12-13:14:23.011 46df Compacted 1@0 + 1@1 files => 28763 bytes
+2021/07/12-13:14:23.021 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/12-13:14:23.021 46df Delete type=2 #327
+2021/07/12-13:14:23.021 46df Delete type=2 #330

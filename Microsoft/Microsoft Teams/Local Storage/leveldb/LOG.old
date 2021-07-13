@@ -1,0 +1,23 @@
+2021/04/21-16:17:49.434 6fe6 Reusing MANIFEST /home/fgloblek/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2021/04/21-16:17:49.434 6fe6 Recovering log #109
+2021/04/21-16:17:49.439 6fe6 Level-0 table #112: started
+2021/04/21-16:17:49.453 6fe6 Level-0 table #112: 467088 bytes OK
+2021/04/21-16:17:49.460 6fe6 Delete type=0 #109
+2021/04/21-16:17:49.462 6ffb Compacting 4@0 + 1@1 files
+2021/04/21-16:17:49.509 6ffb Generated table #114@0: 169 keys, 616531 bytes
+2021/04/21-16:17:49.509 6ffb Compacted 4@0 + 1@1 files => 616531 bytes
+2021/04/21-16:17:49.517 6ffb compacted to: files[ 0 1 0 0 0 0 0 ]
+2021/04/21-16:17:49.517 6ffb Delete type=2 #103
+2021/04/21-16:17:49.517 6ffb Delete type=2 #107
+2021/04/21-16:17:49.517 6ffb Delete type=2 #112
+2021/04/21-16:17:49.517 6ffb Delete type=2 #110
+2021/04/21-16:17:49.517 6ffb Delete type=2 #105
+2021/04/21-16:18:49.464 6ffb Level-0 table #116: started
+2021/04/21-16:18:49.470 6ffb Level-0 table #116: 45565 bytes OK
+2021/04/21-16:18:49.478 6ffb Delete type=0 #113
+2021/04/21-17:26:57.628 6ffb Level-0 table #118: started
+2021/04/21-17:26:57.637 6ffb Level-0 table #118: 52719 bytes OK
+2021/04/21-17:26:57.648 6ffb Delete type=0 #115
+2021/04/21-17:46:44.319 6ffb Level-0 table #120: started
+2021/04/21-17:46:44.328 6ffb Level-0 table #120: 43855 bytes OK
+2021/04/21-17:46:44.337 6ffb Delete type=0 #117

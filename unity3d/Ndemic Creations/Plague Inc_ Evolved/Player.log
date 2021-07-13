@@ -1,0 +1,1288 @@
+Setting breakpad minidump AppID = 246620
+Steam_SetMinidumpSteamID:  Caching Steam ID:  76561197997902752 [API loaded no]
+Timed out waiting for game mapping!
+=24
+GLX_STENCIL_SIZE=8
+GLX_SAMPLES_ARB=0
+GLX_SAMPLE_BUFFERS_ARB=0
+GLX_STEREO=0
+GLX_CONFIG_CAVEAT=NONE
+
+Desktop is 1920 x 1080 @ 60 Hz
+Initialize engine version: 5.5.5p2 (371251174a02)
+GfxDevice: creating device client; threaded=1
+GLX Extensions: GLX_ARB_create_context GLX_ARB_create_context_profile GLX_ARB_create_context_robustness GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_buffer_age GLX_EXT_create_context_es2_profile GLX_EXT_create_context_es_profile GLX_EXT_fbconfig_packed_float GLX_EXT_framebuffer_sRGB GLX_EXT_import_context GLX_EXT_texture_from_pixmap GLX_EXT_visual_info GLX_EXT_visual_rating GLX_INTEL_swap_event GLX_MESA_copy_sub_buffer GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_swap_method GLX_OML_sync_control GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_SGI_make_current_read GLX_SGI_swap_control GLX_SGI_video_sync 
+Setting maxVSyncInterval to 4
+Renderer: Mesa Intel(R) UHD Graphics 620 (KBL GT2)
+Vendor:   Intel
+Version:  4.6 (Core Profile) Mesa 20.1.0-devel (git-51492f2 2020-04-04 bionic-oibaf-ppa)
+GLES:     0
+ GL_3DFX_texture_compression_FXT1 GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_cont
+rol GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_cl
+amp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_buffer_object GL_ARB_
+texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separ
+ate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_shader_framebuffer_fetch GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vert
+ex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_conservative_rasterization GL_INTEL_performance_query GL_INTEL_shader_atomic_float_minmax GL_INTEL_shader_integer_functions2 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_fragment_shader_interlock GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 180167760
+AudioManager: Using PulseAudio: Default Output Device
+Begin MonoManager ReloadAssembly
+Platform assembly: /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/UnityEngine.dll (this message is harmless)
+Loading /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/UnityEngine.dll into Unity Child Domain
+Platform assembly: /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/Assembly-CSharp.dll (this message is harmless)
+Loading /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/Assembly-UnityScript.dll (this message is harmless)
+Loading /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/UnityEngine.UI.dll (this message is harmless)
+Loading /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/UnityEngine.Networking.dll (this message is harmless)
+Loading /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/Vectrosity.dll (this message is harmless)
+Loading /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/Vectrosity.dll into Unity Child Domain
+Platform assembly: /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/SuperSplines.dll (this message is harmless)
+Loading /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/SuperSplines.dll into Unity Child Domain
+Platform assembly: /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/ProMouseDll.dll (this message is harmless)
+Loading /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/ProMouseDll.dll into Unity Child Domain
+Platform assembly: /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/MouseLibWin.dll (this message is harmless)
+Loading /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/MouseLibWin.dll into Unity Child Domain
+Platform assembly: /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/Flow.dll (this message is harmless)
+Loading /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/Flow.dll into Unity Child Domain
+- Completed reload, in  0.056 seconds
+Platform assembly: /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/System.Core.dll (this message is harmless)
+Platform assembly: /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/System.dll (this message is harmless)
+OnLevelWasLoaded was found on LineManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 383)
+
+Platform assembly: /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/System.Xml.dll (this message is harmless)
+Default vsync count 0
+requesting resize 1024 x 768
+resizing window to 1024 x 768
+Desktop is 1920 x 1080 @ 60 Hz
+Using libudev for joystick management
+
+
+Importing game controller configs
+The referenced script on this Behaviour (Game Object 'ReanimateZombies') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Transmission') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Symptoms') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Ablities') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Overview') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Exit') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_WorldCure') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_World_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_World') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+UnloadTime: 5.303000 ms
+/HS/  PlagueExternalMP Plugin Handshake [9292]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+/HS/  PlagueExternalCoop Plugin Handshake [9292]
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Config file not detected creating default
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting resolution: 800x600
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Found native resolution: 1024x768
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Transmission') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Transmission') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Symptoms') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Symptoms') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Ablities') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Ablities') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Overview') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Toggle_Overview') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Exit') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Exit') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_WorldCure') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_WorldCure') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_World_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_World_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_World') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_World') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing!
+ 
+(Filename:  Line: 1755)
+
+System Info:
+Plague Inc. Evolved Version 1.17.2
+OS: Linux 4.15 unknown 64bit
+Processor: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz Count: 8
+Graphics: 22807/Mesa Intel(R) UHD Graphics 620 (KBL GT2)/Intel/OpenGL 4.6 (Core Profile) Mesa 20.1.0-devel (git-51492f2 2020-04-04 bionic-oibaf-ppa)/512/-1 Shader: 50
+Memory: system - 7759 graphics - 512
+
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+//////////////////////////////////////////////
+Plague Inc: Branch[] BuildID[0]
+//////////////////////////////////////////////
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: /home/fgloblek/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed/Boo.Lang.dll (this message is harmless)
+Unknown language: ''
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreen/HUDPanel/Anchor-BottomLeft/Disease/Button_Disease"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreen/HUDPanel/Anchor-BottomLeft/Disease/Button_Disease/TooltipDetector"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreenMP/HUDPanel/Anchor-BottomLeft/Disease/Button_Disease/TooltipDetector"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreenMP/HUDPanel/Anchor-Top/Coop_Panel/Coop/Content/Center/MP_CO_LabBar/NextLab/Tooltip/Tooltip Child"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreenMP/HUDPanel/Anchor-Top/Coop_Panel/Coop/Content/Center/MP_CO_LabBar/NextLab/Tooltip/Tooltip Child"
+ 
+(Filename:  Line: 0)
+
+requesting resize 800 x 600
+requesting fullscreen 800 x 600 at 0 Hz
+Desktop is 1920 x 1080 @ 60 Hz
+Error setting 'scenNexusPopInfected' - line: ' scen_nexus_pop_infected:' error:
+System.FormatException: Input string was not in the correct format: s.Length==0.
+  at System.Int64.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Int64.Parse (System.String s, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Convert.ToInt64 (System.String value, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.String.System.IConvertible.ToInt64 (IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Convert.ToType (System.Object value, System.Type conversionType, IFormatProvider provider, Boolean try_target_to_type) [0x00000] in <filename unknown>:0 
+  at System.Convert.ChangeType (System.Object value, System.Type conversionType) [0x00000] in <filename unknown>:0 
+  at DataImporter.UnserializeData[ScenarioInformation] (.ScenarioInformation ob, System.String txt, System.String sectionName, Boolean quiet) [0x00000] in <filename unknown>:0 
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error setting 'scenNexusPopDead' - line: ' scen_nexus_pop_dead:' error:
+System.FormatException: Input string was not in the correct format: s.Length==0.
+  at System.Int64.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Int64.Parse (System.String s, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Convert.ToInt64 (System.String value, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.String.System.IConvertible.ToInt64 (IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Convert.ToType (System.Object value, System.Type conversionType, IFormatProvider provider, Boolean try_target_to_type) [0x00000] in <filename unknown>:0 
+  at System.Convert.ChangeType (System.Object value, System.Type conversionType) [0x00000] in <filename unknown>:0 
+  at DataImporter.UnserializeData[ScenarioInformation] (.ScenarioInformation ob, System.String txt, System.String sectionName, Boolean quiet) [0x00000] in <filename unknown>:0 
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error setting 'scenNexusPopZombie' - line: ' scen_nexus_pop_zombie:' error:
+System.FormatException: Input string was not in the correct format: s.Length==0.
+  at System.Int64.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Int64.Parse (System.String s, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Convert.ToInt64 (System.String value, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.String.System.IConvertible.ToInt64 (IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Convert.ToType (System.Object value, System.Type conversionType, IFormatProvider provider, Boolean try_target_to_type) [0x00000] in <filename unknown>:0 
+  at System.Convert.ChangeType (System.Object value, System.Type conversionType) [0x00000] in <filename unknown>:0 
+  at DataImporter.UnserializeData[ScenarioInformation] (.ScenarioInformation ob, System.String txt, System.String sectionName, Boolean quiet) [0x00000] in <filename unknown>:0 
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error setting 'scenScoreMultiplier' - line: ' scen_score_multiplier:' error:
+System.FormatException: Invalid format.
+  at System.Double.Parse (System.String s, NumberStyles style, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Single.Parse (System.String s, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Convert.ToSingle (System.String value, IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.String.System.IConvertible.ToSingle (IFormatProvider provider) [0x00000] in <filename unknown>:0 
+  at System.Convert.ToType (System.Object value, System.Type conversionType, IFormatProvider provider, Boolean try_target_to_type) [0x00000] in <filename unknown>:0 
+  at System.Convert.ChangeType (System.Object value, System.Type conversionType) [0x00000] in <filename unknown>:0 
+  at DataImporter.UnserializeData[ScenarioInformation] (.ScenarioInformation ob, System.String txt, System.String sectionName, Boolean quiet) [0x00000] in <filename unknown>:0 
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+InitUIHandlers
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error game info: Error
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error loading popup: Error
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error loading news: Error
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Changing real window size to 1920 x 1080
+Setting up downscaled viewport at 800 x 600
+Changing real window size to 1920 x 1080
+Registering network view:SteamNetwork (INetworkView)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+*******************************************SteamManager.Initialized:True
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+USER STATS RECEIVED CALLBACK
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+User stats received for :76561197997902752
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DiseaseType: BACTERIA val: 2 next: VIRUS
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DiseaseType: BACTERIA val: 2 -> no mega achievement
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DiseaseType: VIRUS val: 1 next: FUNGUS
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DiseaseType: VIRUS val: 1 -> no brutal cheats
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DiseaseType: FUNGUS val: 1 next: NEURAX
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DiseaseType: PARASITE val: 1 next: PRION
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DiseaseType: PRION val: 1 next: NECROA
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DiseaseType: NANO_VIRUS val: 1 next: BIO_WEAPON
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DiseaseType: BIO_WEAPON val: 1 next: SIMIAN_FLU
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DiseaseType: NEURAX val: 1 next: PARASITE
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DiseaseType: NECROA val: 1 next: NANO_VIRUS
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DiseaseType: VAMPIRE val: -1 -> no normal cheats
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+All scenarios achievement failed: mst complete artificial_organs
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Number imported: 7455
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Data/Languages/en Line: 1 - non-whitespace/newlines outside of tag
+Data/Languages/en Line: 5606 - non-whitespace/newlines outside of tag
+Data/Languages/en Line: 5643 - non-whitespace/newlines outside of tag
+
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully saved stats to the server.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error game info: Error
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error game info: Error
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error game info: Error
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Error game info: Error
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 33687 unused Assets to reduce memory usage. Loaded Objects now: 117183.
+Total: 133.107010 ms (FindLiveObjects: 10.285999 ms CreateObjectMapping: 6.827000 ms MarkObjects: 84.462997 ms  DeleteObjects: 31.530001 ms)
+
+Set Active: local: FPS_60 options FPS_60
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting screen resolution for vid: 1920x1080
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+requesting resize 1920 x 1080
+resizing window to 1920 x 1080
+Desktop is 1920 x 1080 @ 60 Hz
+EVENT MANAGER CREATED
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Invalid data line '  ' - expected param:val line:72 depth:2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Invalid data line '  ' - expected param:val line:111 depth:2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Section: global Could not find field or property in SPDisease for: 'diseaseTypeGui' - original - 'disease_type_gui'
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IMPORTING DISEASE TECH
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ADDING DISEASE[VIRUS]: SPDisease FOR PLAYER: manderleysghost
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TRAIL PARTICLES INITIALISE
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetUserBubble - bonusObject:
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetP2UserBubble - bonusObject:
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetUserBubble - bonusObject:
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UPDATE SOUND SOURCES
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetUserBubble - bonusObject:
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetUserBubble - bonusObject:Bubble_CountrySelect(Clone) (BonusObject)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+INITIAL TRANSFER OF POP: PAX-12 in China
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IGame.StartGame() - type:Classic, IsReplayActive:False
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DIS[PAX-12] ---totalInf:0
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetUserBubble - bonusObject:
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SetP2UserBubble - bonusObject:
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SETTING INITIAL SPREADWAVES: 1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EXPAND OUT
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: nowboarding
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[37]Disease.EvolveTech[water_1] - free:False, cost:9
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:PAX-12 evolved:water_1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: childrenlaugh
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[68]Disease.EvolveTech[insomnia] - free:True, cost:2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[107]Disease.EvolveTech[air_1] - free:False, cost:10
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:PAX-12 evolved:air_1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[107]Disease.EvolveTech[drug_resistance_1] - free:False, cost:11
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:PAX-12 evolved:drug_resistance_1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[135]Disease.EvolveTech[insomnia] - free:True, cost:2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: cough
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[172]Disease.EvolveTech[heat_resistance_1] - free:False, cost:12
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:PAX-12 evolved:heat_resistance_1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[172]Disease.EvolveTech[cold_resistance_1] - free:False, cost:9
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:PAX-12 evolved:cold_resistance_1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: mosquito
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[210]Disease.EvolveTech[cysts] - free:True, cost:2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[219]Disease.EvolveTech[genetic__hardening_1] - free:False, cost:10
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:PAX-12 evolved:genetic__hardening_1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[219]Disease.EvolveTech[genetic__hardening_2] - free:False, cost:26
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:PAX-12 evolved:genetic__hardening_2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[276]Disease.EvolveTech[air_2] - free:False, cost:16
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:PAX-12 evolved:air_2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[276]Disease.EvolveTech[nausea] - free:True, cost:2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: cough
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: mosquito
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[346]Disease.EvolveTech[drug_resistance_2] - free:False, cost:30
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:PAX-12 evolved:drug_resistance_2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[347]Disease.EvolveTech[coughing] - free:True, cost:4
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: heartmonitor
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: nowboarding
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[388]Disease.EvolveTech[viral_instability_1] - free:False, cost:11
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:PAX-12 evolved:viral_instability_1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[388]Disease.EvolveTech[genetic_reshuffle_1] - free:False, cost:24
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:PAX-12 evolved:genetic_reshuffle_1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[388]Disease.EvolveTech[viral_instability_2] - free:False, cost:13
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:PAX-12 evolved:viral_instability_2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[395]Disease.EvolveTech[sneezing] - free:True, cost:5
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: siren
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[413]Disease.EvolveTech[vomiting] - free:True, cost:3
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[426]Disease.EvolveTech[viral_instability_3] - free:False, cost:15
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:PAX-12 evolved:viral_instability_3
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[426]Disease.EvolveTech[heat_resistance_2] - free:False, cost:32
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:PAX-12 evolved:heat_resistance_2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[428]Disease.EvolveTech[pneumonia] - free:True, cost:3
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[440]Disease.EvolveTech[abscesses] - free:True, cost:2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[451]Disease.EvolveTech[systemic_infection] - free:True, cost:17
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[463]Disease.EvolveTech[tumours] - free:True, cost:11
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: womancry
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: ringsong
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[478]Disease.EvolveTech[pulmonary_fibrosis] - free:True, cost:6
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: lastbreath
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[487]Disease.EvolveTech[total_organ_failure] - free:True, cost:28
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: funeralbellsb
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[497]Disease.EvolveTech[paranoia] - free:True, cost:4
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[503]Disease.EvolveTech[cold_resistance_2] - free:False, cost:23
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:PAX-12 evolved:cold_resistance_2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[503]Disease.EvolveTech[environmental_hardening] - free:False, cost:42
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:PAX-12 evolved:environmental_hardening
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[503]Disease.EvolveTech[rodent_1] - free:False, cost:13
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:PAX-12 evolved:rodent_1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[503]Disease.EvolveTech[insect_1] - free:False, cost:13
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:PAX-12 evolved:insect_1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[503]Disease.EvolveTech[blood_1] - free:False, cost:13
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:PAX-12 evolved:blood_1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: pilotchatter
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[511]Disease.EvolveTech[hyper_sensitivity] - free:True, cost:2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: angrymob
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[531]Disease.EvolveTech[inflammation] - free:True, cost:5
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: crow
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully saved stats to the server.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[591]Disease.EvolveTech[diarrhoea] - free:True, cost:6
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[667]Disease.EvolveTech[dysentery] - free:True, cost:19
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GAME END, GameTime: 682
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+INFO: Check Evo: True
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DiseaseType: BACTERIA val: 2 -> no mega achievement
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DiseaseType: VIRUS val: 1 -> no brutal cheats
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+**EndGame** gameType:Classic didWin:True diseaseWon:PAX-12 resultType:None unlocked:CUIManager+Unlock
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+INFO: Leaderboard entry for 281412 of classic_VIRUS.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Successfully saved stats to the server.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+INFO: Uploaded Score:
+Score: 9300
+New Rank: 0
+Leaderboard: 281412
+Changed: 0
+Success? 1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+INFO: Leaderboard entry for 274487 of speedrun_VIRUS.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+INFO: Uploaded Score:
+Score: 673
+New Rank: 888356
+Leaderboard: 274487
+Changed: 1
+Success? 1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EVENT MANAGER CREATED
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Invalid data line '  ' - expected param:val line:72 depth:2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Invalid data line '  ' - expected param:val line:111 depth:2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Section: global Could not find field or property in SPDisease for: 'diseaseTypeGui' - original - 'disease_type_gui'
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IMPORTING DISEASE TECH
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+INITIAL TRANSFER OF POP: PAX-12 in China
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TRAIL PARTICLES INITIALISE
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+IGame.StartGame() - type:Classic, IsReplayActive:True
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+DIS[PAX-12] ---totalInf:0
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+INFO: Replaying 673 turns with seed 56483848.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SETTING INITIAL SPREADWAVES: 1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: nowboarding
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UPDATE SOUND SOURCES
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[37]Disease.EvolveTech[water_1] - free:False, cost:9
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: nowboarding
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[68]Disease.EvolveTech[insomnia] - free:True, cost:2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[107]Disease.EvolveTech[air_1] - free:False, cost:10
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[107]Disease.EvolveTech[drug_resistance_1] - free:False, cost:11
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[135]Disease.EvolveTech[insomnia] - free:True, cost:2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: childrenlaugh
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[172]Disease.EvolveTech[heat_resistance_1] - free:False, cost:12
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[172]Disease.EvolveTech[cold_resistance_1] - free:False, cost:9
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: cough
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[210]Disease.EvolveTech[cysts] - free:True, cost:2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: mosquito
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[219]Disease.EvolveTech[genetic__hardening_1] - free:False, cost:10
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[219]Disease.EvolveTech[genetic__hardening_2] - free:False, cost:26
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: nowboarding
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[276]Disease.EvolveTech[air_2] - free:False, cost:16
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[276]Disease.EvolveTech[nausea] - free:True, cost:2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[346]Disease.EvolveTech[drug_resistance_2] - free:False, cost:30
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[347]Disease.EvolveTech[coughing] - free:True, cost:4
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: mosquito
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[388]Disease.EvolveTech[viral_instability_1] - free:False, cost:11
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[388]Disease.EvolveTech[genetic_reshuffle_1] - free:False, cost:24
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[388]Disease.EvolveTech[viral_instability_2] - free:False, cost:13
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[395]Disease.EvolveTech[sneezing] - free:True, cost:5
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[413]Disease.EvolveTech[vomiting] - free:True, cost:3
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[426]Disease.EvolveTech[viral_instability_3] - free:False, cost:15
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[426]Disease.EvolveTech[heat_resistance_2] - free:False, cost:32
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[428]Disease.EvolveTech[pneumonia] - free:True, cost:3
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: heartmonitor
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[440]Disease.EvolveTech[abscesses] - free:True, cost:2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[451]Disease.EvolveTech[systemic_infection] - free:True, cost:17
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[463]Disease.EvolveTech[tumours] - free:True, cost:11
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[478]Disease.EvolveTech[pulmonary_fibrosis] - free:True, cost:6
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[487]Disease.EvolveTech[total_organ_failure] - free:True, cost:28
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[497]Disease.EvolveTech[paranoia] - free:True, cost:4
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[503]Disease.EvolveTech[cold_resistance_2] - free:False, cost:23
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[503]Disease.EvolveTech[environmental_hardening] - free:False, cost:42
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[503]Disease.EvolveTech[rodent_1] - free:False, cost:13
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[503]Disease.EvolveTech[insect_1] - free:False, cost:13
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[503]Disease.EvolveTech[blood_1] - free:False, cost:13
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[511]Disease.EvolveTech[hyper_sensitivity] - free:True, cost:2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: siren
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[531]Disease.EvolveTech[inflammation] - free:True, cost:5
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PLAY SFX: crow
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[591]Disease.EvolveTech[diarrhoea] - free:True, cost:6
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[667]Disease.EvolveTech[dysentery] - free:True, cost:19
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OUT OF TURNS
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OUT OF TURNS
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+End of replay
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clear Game Called
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CNetworkSteam.OnTerminate
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registering network view:SteamNetwork (INetworkView)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+*******************************************SteamManager.Initialized:True
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EVENT MANAGER CREATED
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Invalid data line '  ' - expected param:val line:72 depth:2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Invalid data line '  ' - expected param:val line:111 depth:2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clear Game Called
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CNetworkSteam.OnTerminate
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Registering network view:SteamNetwork (INetworkView)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+*******************************************SteamManager.Initialized:True
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: b635cb40 -> priority: 1 
+  Thread -> id: 79c9cb40 -> priority: 1 
+CNetworkSteam.OnTerminate
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CNetworkSteam.OnTerminate
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CNetworkSteam.OnTerminate
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

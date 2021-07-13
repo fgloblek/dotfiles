@@ -1,0 +1,51 @@
+2021/07/09-11:53:14.639 1cfb Reusing MANIFEST /home/fgloblek/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2021/07/09-11:53:14.641 1cfb Recovering log #4744
+2021/07/09-11:53:14.641 1cfb Reusing old log /home/fgloblek/.config/chromium/Default/Local Storage/leveldb/004744.log 
+2021/07/09-15:07:49.746 5c5c Level-0 table #4749: started
+2021/07/09-15:07:49.752 5c5c Level-0 table #4749: 13395 bytes OK
+2021/07/09-15:07:49.761 5c5c Delete type=0 #4744
+2021/07/09-21:04:07.403 5c5c Level-0 table #4751: started
+2021/07/09-21:04:07.410 5c5c Level-0 table #4751: 9487 bytes OK
+2021/07/09-21:04:07.418 5c5c Delete type=0 #4748
+2021/07/10-08:38:08.532 5c5c Level-0 table #4753: started
+2021/07/10-08:38:08.538 5c5c Level-0 table #4753: 9318 bytes OK
+2021/07/10-08:38:08.545 5c5c Delete type=0 #4750
+2021/07/10-08:48:55.994 5c5c Level-0 table #4755: started
+2021/07/10-08:48:56.030 5c5c Level-0 table #4755: 349140 bytes OK
+2021/07/10-08:48:56.046 5c5c Delete type=0 #4752
+2021/07/10-08:48:56.046 5c5c Compacting 4@0 + 1@1 files
+2021/07/10-08:48:56.141 5c5c Generated table #4756@0: 11072 keys, 1075720 bytes
+2021/07/10-08:48:56.141 5c5c Compacted 4@0 + 1@1 files => 1075720 bytes
+2021/07/10-08:48:56.154 5c5c compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/10-08:48:56.154 5c5c Delete type=2 #4746
+2021/07/10-08:48:56.154 5c5c Delete type=2 #4753
+2021/07/10-08:48:56.154 5c5c Delete type=2 #4751
+2021/07/10-08:48:56.154 5c5c Delete type=2 #4749
+2021/07/10-08:48:56.154 5c5c Delete type=2 #4755
+2021/07/10-09:03:11.996 5c5c Level-0 table #4758: started
+2021/07/10-09:03:12.030 5c5c Level-0 table #4758: 83644 bytes OK
+2021/07/10-09:03:12.039 5c5c Delete type=0 #4754
+2021/07/10-09:11:11.995 5c5c Level-0 table #4760: started
+2021/07/10-09:11:12.008 5c5c Level-0 table #4760: 96198 bytes OK
+2021/07/10-09:11:12.016 5c5c Delete type=0 #4757
+2021/07/10-10:37:42.376 5c5c Level-0 table #4762: started
+2021/07/10-10:37:42.383 5c5c Level-0 table #4762: 13925 bytes OK
+2021/07/10-10:37:42.392 5c5c Delete type=0 #4759
+2021/07/12-12:43:55.714 5c5c Level-0 table #4764: started
+2021/07/12-12:43:55.721 5c5c Level-0 table #4764: 12122 bytes OK
+2021/07/12-12:43:55.729 5c5c Delete type=0 #4761
+2021/07/12-12:43:55.730 5c5c Compacting 4@0 + 1@1 files
+2021/07/12-12:43:55.795 5c5c Generated table #4765@0: 11246 keys, 1180238 bytes
+2021/07/12-12:43:55.795 5c5c Compacted 4@0 + 1@1 files => 1180238 bytes
+2021/07/12-12:43:55.804 5c5c compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/12-12:43:55.805 5c5c Delete type=2 #4760
+2021/07/12-12:43:55.805 5c5c Delete type=2 #4758
+2021/07/12-12:43:55.805 5c5c Delete type=2 #4762
+2021/07/12-12:43:55.805 5c5c Delete type=2 #4764
+2021/07/12-12:43:55.805 5c5c Delete type=2 #4756
+2021/07/13-11:34:42.200 5c5c Level-0 table #4767: started
+2021/07/13-11:34:42.210 5c5c Level-0 table #4767: 8748 bytes OK
+2021/07/13-11:34:42.219 5c5c Delete type=0 #4763
+2021/07/13-17:03:18.177 5c5c Level-0 table #4769: started
+2021/07/13-17:03:18.187 5c5c Level-0 table #4769: 9578 bytes OK
+2021/07/13-17:03:18.196 5c5c Delete type=0 #4766

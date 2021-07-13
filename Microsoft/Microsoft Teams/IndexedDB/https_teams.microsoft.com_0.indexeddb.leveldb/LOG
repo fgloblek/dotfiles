@@ -1,0 +1,6 @@
+2021/05/05-16:07:00.436 12c8 Reusing MANIFEST /home/fgloblek/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/05/05-16:07:00.436 12c8 Recovering log #72
+2021/05/05-16:07:00.449 12c8 Reusing old log /home/fgloblek/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000072.log 
+2021/05/05-16:07:07.178 13b1 Level-0 table #77: started
+2021/05/05-16:07:07.228 13b1 Level-0 table #77: 1912197 bytes OK
+2021/05/05-16:07:07.245 13b1 Delete type=0 #72

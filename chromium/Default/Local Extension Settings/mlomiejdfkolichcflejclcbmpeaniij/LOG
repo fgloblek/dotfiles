@@ -1,0 +1,660 @@
+2021/07/09-11:53:15.464 1d19 Reusing MANIFEST /home/fgloblek/.config/chromium/Default/Local Extension Settings/mlomiejdfkolichcflejclcbmpeaniij/MANIFEST-000001
+2021/07/09-11:53:15.466 1d19 Recovering log #17485
+2021/07/09-11:53:15.469 1d19 Reusing old log /home/fgloblek/.config/chromium/Default/Local Extension Settings/mlomiejdfkolichcflejclcbmpeaniij/017485.log 
+2021/07/09-12:08:12.204 46df Level-0 table #17490: started
+2021/07/09-12:08:12.233 46df Level-0 table #17490: 1578706 bytes OK
+2021/07/09-12:08:12.241 46df Delete type=0 #17485
+2021/07/09-12:13:08.153 46df Level-0 table #17492: started
+2021/07/09-12:13:08.182 46df Level-0 table #17492: 1517558 bytes OK
+2021/07/09-12:13:08.189 46df Delete type=0 #17489
+2021/07/09-12:18:22.727 46df Compacting 1@0 + 1@1 files
+2021/07/09-12:18:22.746 46df Generated table #17493@0: 35 keys, 511573 bytes
+2021/07/09-12:18:22.746 46df Compacted 1@0 + 1@1 files => 511573 bytes
+2021/07/09-12:18:22.752 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/09-12:18:22.753 46df Delete type=2 #17492
+2021/07/09-12:18:22.753 46df Delete type=2 #17490
+2021/07/09-12:24:04.919 46df Level-0 table #17495: started
+2021/07/09-12:24:04.955 46df Level-0 table #17495: 1557982 bytes OK
+2021/07/09-12:24:04.962 46df Delete type=0 #17491
+2021/07/09-13:55:29.269 46df Level-0 table #17497: started
+2021/07/09-13:55:29.314 46df Level-0 table #17497: 1519960 bytes OK
+2021/07/09-13:55:29.322 46df Delete type=0 #17494
+2021/07/09-14:00:18.797 46df Level-0 table #17499: started
+2021/07/09-14:00:18.823 46df Level-0 table #17499: 1077105 bytes OK
+2021/07/09-14:00:18.830 46df Delete type=0 #17496
+2021/07/09-14:03:01.624 46df Level-0 table #17501: started
+2021/07/09-14:03:01.658 46df Level-0 table #17501: 1508579 bytes OK
+2021/07/09-14:03:01.667 46df Delete type=0 #17498
+2021/07/09-14:03:01.669 46df Compacting 4@0 + 1@1 files
+2021/07/09-14:03:01.730 46df Generated table #17502@0: 51 keys, 545897 bytes
+2021/07/09-14:03:01.730 46df Compacted 4@0 + 1@1 files => 545897 bytes
+2021/07/09-14:03:01.740 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/09-14:03:01.741 46df Delete type=2 #17495
+2021/07/09-14:03:01.741 46df Delete type=2 #17493
+2021/07/09-14:03:01.741 46df Delete type=2 #17499
+2021/07/09-14:03:01.741 46df Delete type=2 #17497
+2021/07/09-14:03:01.741 46df Delete type=2 #17501
+2021/07/09-14:16:24.357 46df Compacting 1@1 + 1@2 files
+2021/07/09-14:16:24.375 46df Generated table #17503@1: 101 keys, 780364 bytes
+2021/07/09-14:16:24.375 46df Compacted 1@1 + 1@2 files => 780364 bytes
+2021/07/09-14:16:24.384 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/09-14:16:24.384 46df Delete type=2 #17487
+2021/07/09-14:16:24.384 46df Delete type=2 #17502
+2021/07/09-14:17:55.477 46df Level-0 table #17505: started
+2021/07/09-14:17:55.501 46df Level-0 table #17505: 744690 bytes OK
+2021/07/09-14:17:55.510 46df Delete type=0 #17500
+2021/07/09-14:29:27.994 46df Compacting 1@1 + 1@2 files
+2021/07/09-14:29:28.017 46df Generated table #17506@1: 97 keys, 779616 bytes
+2021/07/09-14:29:28.017 46df Compacted 1@1 + 1@2 files => 779616 bytes
+2021/07/09-14:29:28.023 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/09-14:29:28.023 46df Delete type=2 #17503
+2021/07/09-14:29:28.023 46df Delete type=2 #17505
+2021/07/09-14:57:31.526 46df Level-0 table #17508: started
+2021/07/09-14:57:31.556 46df Level-0 table #17508: 1524650 bytes OK
+2021/07/09-14:57:31.563 46df Delete type=0 #17504
+2021/07/09-15:09:34.023 46df Compacting 1@1 + 1@2 files
+2021/07/09-15:09:34.053 46df Generated table #17509@1: 99 keys, 780212 bytes
+2021/07/09-15:09:34.053 46df Compacted 1@1 + 1@2 files => 780212 bytes
+2021/07/09-15:09:34.059 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/09-15:09:34.060 46df Delete type=2 #17506
+2021/07/09-15:09:34.060 46df Delete type=2 #17508
+2021/07/09-15:11:44.139 46df Level-0 table #17511: started
+2021/07/09-15:11:44.166 46df Level-0 table #17511: 1089522 bytes OK
+2021/07/09-15:11:44.174 46df Delete type=0 #17507
+2021/07/09-15:24:36.930 46df Compacting 1@1 + 1@2 files
+2021/07/09-15:24:36.952 46df Generated table #17512@1: 99 keys, 779810 bytes
+2021/07/09-15:24:36.952 46df Compacted 1@1 + 1@2 files => 779810 bytes
+2021/07/09-15:24:36.958 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/09-15:24:36.958 46df Delete type=2 #17509
+2021/07/09-15:24:36.958 46df Delete type=2 #17511
+2021/07/09-15:26:37.308 46df Level-0 table #17514: started
+2021/07/09-15:26:37.322 46df Level-0 table #17514: 665959 bytes OK
+2021/07/09-15:26:37.329 46df Delete type=0 #17510
+2021/07/09-15:38:38.914 46df Compacting 1@1 + 1@2 files
+2021/07/09-15:38:38.934 46df Generated table #17515@1: 94 keys, 778000 bytes
+2021/07/09-15:38:38.934 46df Compacted 1@1 + 1@2 files => 778000 bytes
+2021/07/09-15:38:38.942 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/09-15:38:38.942 46df Delete type=2 #17512
+2021/07/09-15:38:38.942 46df Delete type=2 #17514
+2021/07/09-17:59:37.499 46df Level-0 table #17517: started
+2021/07/09-17:59:37.527 46df Level-0 table #17517: 1113036 bytes OK
+2021/07/09-17:59:37.534 46df Delete type=0 #17513
+2021/07/09-18:10:26.496 46df Compacting 1@1 + 1@2 files
+2021/07/09-18:10:26.530 46df Generated table #17518@1: 89 keys, 776575 bytes
+2021/07/09-18:10:26.530 46df Compacted 1@1 + 1@2 files => 776575 bytes
+2021/07/09-18:10:26.538 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/09-18:10:26.539 46df Delete type=2 #17515
+2021/07/09-18:10:26.539 46df Delete type=2 #17517
+2021/07/09-18:15:50.002 46df Level-0 table #17520: started
+2021/07/09-18:15:50.031 46df Level-0 table #17520: 1105555 bytes OK
+2021/07/09-18:15:50.045 46df Delete type=0 #17516
+2021/07/09-18:17:05.512 46df Level-0 table #17522: started
+2021/07/09-18:17:05.561 46df Level-0 table #17522: 1503358 bytes OK
+2021/07/09-18:17:05.568 46df Delete type=0 #17519
+2021/07/09-18:21:01.481 46df Level-0 table #17524: started
+2021/07/09-18:21:01.527 46df Level-0 table #17524: 1503507 bytes OK
+2021/07/09-18:21:01.538 46df Delete type=0 #17521
+2021/07/09-18:23:26.629 46df Level-0 table #17526: started
+2021/07/09-18:23:26.696 46df Level-0 table #17526: 1502963 bytes OK
+2021/07/09-18:23:26.709 46df Delete type=0 #17523
+2021/07/09-18:23:41.624 46df Level-0 table #17528: started
+2021/07/09-18:23:41.668 46df Level-0 table #17528: 1503608 bytes OK
+2021/07/09-18:23:41.680 46df Delete type=0 #17525
+2021/07/09-18:23:41.681 46df Compacting 4@0 + 1@1 files
+2021/07/09-18:23:41.721 46df Generated table #17529@0: 23 keys, 537553 bytes
+2021/07/09-18:23:41.721 46df Compacted 4@0 + 1@1 files => 537553 bytes
+2021/07/09-18:23:41.730 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/09-18:23:41.730 46df Delete type=2 #17524
+2021/07/09-18:23:41.730 46df Delete type=2 #17528
+2021/07/09-18:23:41.730 46df Delete type=2 #17520
+2021/07/09-18:23:41.730 46df Delete type=2 #17526
+2021/07/09-18:23:41.730 46df Delete type=2 #17522
+2021/07/09-18:24:52.212 46df Level-0 table #17531: started
+2021/07/09-18:24:52.255 46df Level-0 table #17531: 1503185 bytes OK
+2021/07/09-18:24:52.265 46df Delete type=0 #17527
+2021/07/09-18:28:32.610 46df Level-0 table #17533: started
+2021/07/09-18:28:32.651 46df Level-0 table #17533: 1503459 bytes OK
+2021/07/09-18:28:32.659 46df Delete type=0 #17530
+2021/07/09-18:29:42.714 46df Level-0 table #17535: started
+2021/07/09-18:29:42.757 46df Level-0 table #17535: 1503675 bytes OK
+2021/07/09-18:29:42.765 46df Delete type=0 #17532
+2021/07/09-18:35:31.124 46df Compacting 3@0 + 1@1 files
+2021/07/09-18:35:31.151 46df Generated table #17536@0: 32 keys, 537935 bytes
+2021/07/09-18:35:31.151 46df Compacted 3@0 + 1@1 files => 537935 bytes
+2021/07/09-18:35:31.160 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/09-18:35:31.160 46df Delete type=2 #17533
+2021/07/09-18:35:31.160 46df Delete type=2 #17529
+2021/07/09-18:35:31.160 46df Delete type=2 #17531
+2021/07/09-18:35:31.160 46df Delete type=2 #17535
+2021/07/09-18:53:32.499 46df Compacting 1@1 + 1@2 files
+2021/07/09-18:53:32.531 46df Generated table #17537@1: 85 keys, 775875 bytes
+2021/07/09-18:53:32.531 46df Compacted 1@1 + 1@2 files => 775875 bytes
+2021/07/09-18:53:32.537 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/09-18:53:32.538 46df Delete type=2 #17518
+2021/07/09-18:53:32.538 46df Delete type=2 #17536
+2021/07/09-19:01:33.002 46df Level-0 table #17539: started
+2021/07/09-19:01:33.047 46df Level-0 table #17539: 1503923 bytes OK
+2021/07/09-19:01:33.054 46df Delete type=0 #17534
+2021/07/09-19:16:33.991 46df Compacting 1@1 + 1@2 files
+2021/07/09-19:16:34.022 46df Generated table #17540@1: 84 keys, 775492 bytes
+2021/07/09-19:16:34.022 46df Compacted 1@1 + 1@2 files => 775492 bytes
+2021/07/09-19:16:34.029 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/09-19:16:34.029 46df Delete type=2 #17537
+2021/07/09-19:16:34.029 46df Delete type=2 #17539
+2021/07/09-20:38:50.834 46df Level-0 table #17542: started
+2021/07/09-20:38:50.874 46df Level-0 table #17542: 1544451 bytes OK
+2021/07/09-20:38:50.883 46df Delete type=0 #17538
+2021/07/09-20:49:42.880 46df Compacting 1@1 + 1@2 files
+2021/07/09-20:49:42.901 46df Generated table #17543@1: 93 keys, 778013 bytes
+2021/07/09-20:49:42.901 46df Compacted 1@1 + 1@2 files => 778013 bytes
+2021/07/09-20:49:42.908 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/09-20:49:42.908 46df Delete type=2 #17542
+2021/07/09-20:49:42.908 46df Delete type=2 #17540
+2021/07/09-21:19:31.429 46df Level-0 table #17545: started
+2021/07/09-21:19:31.481 46df Level-0 table #17545: 1512344 bytes OK
+2021/07/09-21:19:31.490 46df Delete type=0 #17541
+2021/07/09-21:28:50.106 46df Compacting 1@1 + 1@2 files
+2021/07/09-21:28:50.130 46df Generated table #17546@1: 93 keys, 778198 bytes
+2021/07/09-21:28:50.130 46df Compacted 1@1 + 1@2 files => 778198 bytes
+2021/07/09-21:28:50.137 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/09-21:28:50.137 46df Delete type=2 #17543
+2021/07/09-21:28:50.137 46df Delete type=2 #17545
+2021/07/09-21:34:52.862 46df Level-0 table #17548: started
+2021/07/09-21:34:52.903 46df Level-0 table #17548: 1542285 bytes OK
+2021/07/09-21:34:52.911 46df Delete type=0 #17544
+2021/07/09-21:37:01.987 46df Level-0 table #17550: started
+2021/07/09-21:37:02.023 46df Level-0 table #17550: 1504631 bytes OK
+2021/07/09-21:37:02.031 46df Delete type=0 #17547
+2021/07/09-21:38:52.686 46df Level-0 table #17552: started
+2021/07/09-21:38:52.733 46df Level-0 table #17552: 1503772 bytes OK
+2021/07/09-21:38:52.741 46df Delete type=0 #17549
+2021/07/09-21:41:52.999 46df Level-0 table #17554: started
+2021/07/09-21:41:53.044 46df Level-0 table #17554: 1504772 bytes OK
+2021/07/09-21:41:53.051 46df Delete type=0 #17551
+2021/07/09-21:46:53.275 46df Compacting 3@0 + 1@1 files
+2021/07/09-21:46:53.321 46df Generated table #17555@0: 22 keys, 537419 bytes
+2021/07/09-21:46:53.321 46df Compacted 3@0 + 1@1 files => 537419 bytes
+2021/07/09-21:46:53.328 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/09-21:46:53.329 46df Delete type=2 #17550
+2021/07/09-21:46:53.329 46df Delete type=2 #17548
+2021/07/09-21:46:53.329 46df Delete type=2 #17552
+2021/07/09-21:46:53.329 46df Delete type=2 #17554
+2021/07/09-22:06:58.114 46df Compacting 1@1 + 1@2 files
+2021/07/09-22:06:58.152 46df Generated table #17556@1: 88 keys, 777188 bytes
+2021/07/09-22:06:58.152 46df Compacted 1@1 + 1@2 files => 777188 bytes
+2021/07/09-22:06:58.160 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/09-22:06:58.161 46df Delete type=2 #17546
+2021/07/09-22:06:58.161 46df Delete type=2 #17555
+2021/07/09-22:59:34.285 46df Level-0 table #17558: started
+2021/07/09-22:59:34.328 46df Level-0 table #17558: 1510975 bytes OK
+2021/07/09-22:59:34.339 46df Delete type=0 #17553
+2021/07/09-23:11:14.000 46df Compacting 1@1 + 1@2 files
+2021/07/09-23:11:14.023 46df Generated table #17559@1: 84 keys, 775667 bytes
+2021/07/09-23:11:14.023 46df Compacted 1@1 + 1@2 files => 775667 bytes
+2021/07/09-23:11:14.029 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/09-23:11:14.030 46df Delete type=2 #17558
+2021/07/09-23:11:14.030 46df Delete type=2 #17556
+2021/07/09-23:18:08.022 46df Level-0 table #17561: started
+2021/07/09-23:18:08.052 46df Level-0 table #17561: 1514536 bytes OK
+2021/07/09-23:18:08.060 46df Delete type=0 #17557
+2021/07/09-23:29:39.076 46df Compacting 1@1 + 1@2 files
+2021/07/09-23:29:39.108 46df Generated table #17562@1: 86 keys, 776441 bytes
+2021/07/09-23:29:39.108 46df Compacted 1@1 + 1@2 files => 776441 bytes
+2021/07/09-23:29:39.114 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/09-23:29:39.114 46df Delete type=2 #17559
+2021/07/09-23:29:39.114 46df Delete type=2 #17561
+2021/07/09-23:33:18.376 46df Level-0 table #17564: started
+2021/07/09-23:33:18.408 46df Level-0 table #17564: 1518973 bytes OK
+2021/07/09-23:33:18.415 46df Delete type=0 #17560
+2021/07/09-23:39:35.693 46df Level-0 table #17566: started
+2021/07/09-23:39:35.735 46df Level-0 table #17566: 1506848 bytes OK
+2021/07/09-23:39:35.742 46df Delete type=0 #17563
+2021/07/09-23:47:56.970 46df Compacting 1@0 + 1@1 files
+2021/07/09-23:47:56.989 46df Generated table #17567@0: 15 keys, 506026 bytes
+2021/07/09-23:47:56.989 46df Compacted 1@0 + 1@1 files => 506026 bytes
+2021/07/09-23:47:56.996 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/09-23:47:56.996 46df Delete type=2 #17564
+2021/07/09-23:47:56.996 46df Delete type=2 #17566
+2021/07/09-23:48:19.000 46df Level-0 table #17569: started
+2021/07/09-23:48:19.050 46df Level-0 table #17569: 1506186 bytes OK
+2021/07/09-23:48:19.059 46df Delete type=0 #17565
+2021/07/10-08:21:42.081 46df Level-0 table #17571: started
+2021/07/10-08:21:42.107 46df Level-0 table #17571: 1506115 bytes OK
+2021/07/10-08:21:42.114 46df Delete type=0 #17568
+2021/07/10-08:21:55.371 46df Level-0 table #17573: started
+2021/07/10-08:21:55.402 46df Level-0 table #17573: 1512024 bytes OK
+2021/07/10-08:21:55.409 46df Delete type=0 #17570
+2021/07/10-08:27:11.105 46df Level-0 table #17575: started
+2021/07/10-08:27:11.130 46df Level-0 table #17575: 1091726 bytes OK
+2021/07/10-08:27:11.138 46df Delete type=0 #17572
+2021/07/10-08:27:11.139 46df Compacting 4@0 + 1@1 files
+2021/07/10-08:27:11.203 46df Generated table #17576@0: 35 keys, 542736 bytes
+2021/07/10-08:27:11.203 46df Compacted 4@0 + 1@1 files => 542736 bytes
+2021/07/10-08:27:11.210 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/10-08:27:11.210 46df Delete type=2 #17567
+2021/07/10-08:27:11.210 46df Delete type=2 #17573
+2021/07/10-08:27:11.210 46df Delete type=2 #17569
+2021/07/10-08:27:11.210 46df Delete type=2 #17575
+2021/07/10-08:27:11.210 46df Delete type=2 #17571
+2021/07/10-08:39:25.916 46df Compacting 1@1 + 1@2 files
+2021/07/10-08:39:25.945 46df Generated table #17577@1: 89 keys, 778081 bytes
+2021/07/10-08:39:25.945 46df Compacted 1@1 + 1@2 files => 778081 bytes
+2021/07/10-08:39:25.952 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/10-08:39:25.952 46df Delete type=2 #17562
+2021/07/10-08:39:25.952 46df Delete type=2 #17576
+2021/07/10-08:53:14.468 46df Level-0 table #17579: started
+2021/07/10-08:53:14.516 46df Level-0 table #17579: 1571472 bytes OK
+2021/07/10-08:53:14.526 46df Delete type=0 #17574
+2021/07/10-09:04:33.875 46df Compacting 1@1 + 1@2 files
+2021/07/10-09:04:33.899 46df Generated table #17580@1: 97 keys, 780597 bytes
+2021/07/10-09:04:33.899 46df Compacted 1@1 + 1@2 files => 780597 bytes
+2021/07/10-09:04:33.909 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/10-09:04:33.909 46df Delete type=2 #17579
+2021/07/10-09:04:33.909 46df Delete type=2 #17577
+2021/07/10-09:17:35.743 46df Level-0 table #17582: started
+2021/07/10-09:17:36.072 46df Level-0 table #17582: 1543288 bytes OK
+2021/07/10-09:17:36.274 46df Delete type=0 #17578
+2021/07/10-09:28:39.723 46df Compacting 1@1 + 1@2 files
+2021/07/10-09:28:39.768 46df Generated table #17583@1: 105 keys, 783628 bytes
+2021/07/10-09:28:39.768 46df Compacted 1@1 + 1@2 files => 783628 bytes
+2021/07/10-09:28:39.778 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/10-09:52:46.276 46df Level-0 table #17585: started
+2021/07/10-09:52:46.332 46df Level-0 table #17585: 1574515 bytes OK
+2021/07/10-09:52:46.340 46df Delete type=0 #17581
+2021/07/10-09:52:46.340 46df Delete type=2 #17580
+2021/07/10-09:52:46.340 46df Delete type=2 #17582
+2021/07/10-10:01:22.215 46df Level-0 table #17587: started
+2021/07/10-10:01:22.247 46df Level-0 table #17587: 1164776 bytes OK
+2021/07/10-10:01:22.257 46df Delete type=0 #17584
+2021/07/10-10:09:50.056 46df Compacting 1@0 + 1@1 files
+2021/07/10-10:09:50.091 46df Generated table #17588@0: 46 keys, 547357 bytes
+2021/07/10-10:09:50.091 46df Compacted 1@0 + 1@1 files => 547357 bytes
+2021/07/10-10:09:50.098 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/10-10:09:50.099 46df Delete type=2 #17585
+2021/07/10-10:09:50.099 46df Delete type=2 #17587
+2021/07/10-10:16:51.575 46df Level-0 table #17590: started
+2021/07/10-10:16:51.617 46df Level-0 table #17590: 1543914 bytes OK
+2021/07/10-10:16:51.624 46df Delete type=0 #17586
+2021/07/10-10:21:45.569 46df Level-0 table #17592: started
+2021/07/10-10:21:45.597 46df Level-0 table #17592: 1069875 bytes OK
+2021/07/10-10:21:45.604 46df Delete type=0 #17589
+2021/07/10-10:27:53.833 46df Compacting 2@0 + 1@1 files
+2021/07/10-10:27:53.857 46df Generated table #17593@0: 55 keys, 547858 bytes
+2021/07/10-10:27:53.857 46df Compacted 2@0 + 1@1 files => 547858 bytes
+2021/07/10-10:27:53.864 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/10-10:27:53.864 46df Delete type=2 #17592
+2021/07/10-10:27:53.864 46df Delete type=2 #17590
+2021/07/10-10:27:53.864 46df Delete type=2 #17588
+2021/07/10-10:37:24.630 46df Level-0 table #17595: started
+2021/07/10-10:37:24.687 46df Level-0 table #17595: 1078778 bytes OK
+2021/07/10-10:37:24.696 46df Delete type=0 #17591
+2021/07/10-10:49:59.123 46df Compacting 1@0 + 1@1 files
+2021/07/10-10:49:59.143 46df Generated table #17596@0: 58 keys, 547496 bytes
+2021/07/10-10:49:59.143 46df Compacted 1@0 + 1@1 files => 547496 bytes
+2021/07/10-10:49:59.150 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/10-10:49:59.150 46df Delete type=2 #17595
+2021/07/10-10:49:59.150 46df Delete type=2 #17593
+2021/07/10-10:53:00.552 46df Level-0 table #17598: started
+2021/07/10-10:53:00.572 46df Level-0 table #17598: 673770 bytes OK
+2021/07/10-10:53:00.579 46df Delete type=0 #17594
+2021/07/10-11:04:02.384 46df Compacting 1@0 + 1@1 files
+2021/07/10-11:04:02.407 46df Generated table #17599@0: 61 keys, 547501 bytes
+2021/07/10-11:04:02.407 46df Compacted 1@0 + 1@1 files => 547501 bytes
+2021/07/10-11:04:02.414 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/10-11:04:02.414 46df Delete type=2 #17598
+2021/07/10-11:04:02.414 46df Delete type=2 #17596
+2021/07/10-11:07:03.646 46df Level-0 table #17601: started
+2021/07/10-11:07:03.666 46df Level-0 table #17601: 670073 bytes OK
+2021/07/10-11:07:03.673 46df Delete type=0 #17597
+2021/07/10-11:17:05.119 46df Compacting 1@0 + 1@1 files
+2021/07/10-11:17:05.139 46df Generated table #17602@0: 61 keys, 546213 bytes
+2021/07/10-11:17:05.139 46df Compacted 1@0 + 1@1 files => 546213 bytes
+2021/07/10-11:17:05.146 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/10-11:17:05.147 46df Delete type=2 #17601
+2021/07/10-11:17:05.147 46df Delete type=2 #17599
+2021/07/10-11:21:47.231 46df Level-0 table #17604: started
+2021/07/10-11:21:47.247 46df Level-0 table #17604: 665935 bytes OK
+2021/07/10-11:21:47.254 46df Delete type=0 #17600
+2021/07/10-14:48:54.788 46df Level-0 table #17606: started
+2021/07/10-14:48:54.822 46df Level-0 table #17606: 1528051 bytes OK
+2021/07/10-14:48:54.830 46df Delete type=0 #17603
+2021/07/10-14:56:56.270 46df Compacting 2@0 + 1@1 files
+2021/07/10-14:56:56.296 46df Generated table #17607@0: 61 keys, 543671 bytes
+2021/07/10-14:56:56.296 46df Compacted 2@0 + 1@1 files => 543671 bytes
+2021/07/10-14:56:56.303 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/10-14:56:56.303 46df Delete type=2 #17604
+2021/07/10-14:56:56.303 46df Delete type=2 #17606
+2021/07/10-14:56:56.303 46df Delete type=2 #17602
+2021/07/10-15:21:00.297 46df Compacting 1@1 + 1@2 files
+2021/07/10-15:21:00.323 46df Generated table #17608@1: 85 keys, 777449 bytes
+2021/07/10-15:21:00.323 46df Compacted 1@1 + 1@2 files => 777449 bytes
+2021/07/10-15:21:00.333 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/10-15:21:00.333 46df Delete type=2 #17583
+2021/07/10-15:21:00.333 46df Delete type=2 #17607
+2021/07/10-21:56:56.674 46df Level-0 table #17610: started
+2021/07/10-21:56:56.749 46df Level-0 table #17610: 1539739 bytes OK
+2021/07/10-21:56:56.758 46df Delete type=0 #17605
+2021/07/10-22:07:07.146 46df Compacting 1@1 + 1@2 files
+2021/07/10-22:07:07.170 46df Generated table #17611@1: 87 keys, 777713 bytes
+2021/07/10-22:07:07.170 46df Compacted 1@1 + 1@2 files => 777713 bytes
+2021/07/10-22:07:07.177 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/10-22:07:07.177 46df Delete type=2 #17608
+2021/07/10-22:07:07.177 46df Delete type=2 #17610
+2021/07/11-18:40:58.589 46df Level-0 table #17613: started
+2021/07/11-18:40:58.653 46df Level-0 table #17613: 1520169 bytes OK
+2021/07/11-18:40:58.661 46df Delete type=0 #17609
+2021/07/11-18:50:48.250 46df Compacting 1@1 + 1@2 files
+2021/07/11-18:50:48.313 46df Generated table #17614@1: 86 keys, 777987 bytes
+2021/07/11-18:50:48.314 46df Compacted 1@1 + 1@2 files => 777987 bytes
+2021/07/11-18:50:48.321 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/11-19:00:46.670 46df Level-0 table #17616: started
+2021/07/11-19:00:46.708 46df Level-0 table #17616: 1519964 bytes OK
+2021/07/11-19:00:46.716 46df Delete type=2 #17611
+2021/07/11-19:00:46.716 46df Delete type=2 #17613
+2021/07/11-19:00:46.716 46df Delete type=0 #17612
+2021/07/11-19:23:13.630 46df Compacting 1@1 + 1@2 files
+2021/07/11-19:23:13.671 46df Generated table #17617@1: 84 keys, 777598 bytes
+2021/07/11-19:23:13.671 46df Compacted 1@1 + 1@2 files => 777598 bytes
+2021/07/11-19:23:13.681 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/12-10:36:08.351 46df Level-0 table #17619: started
+2021/07/12-10:36:08.418 46df Level-0 table #17619: 1549235 bytes OK
+2021/07/12-10:36:08.427 46df Delete type=2 #17614
+2021/07/12-10:36:08.427 46df Delete type=0 #17615
+2021/07/12-10:36:08.427 46df Delete type=2 #17616
+2021/07/12-10:47:58.309 46df Compacting 1@1 + 1@2 files
+2021/07/12-10:47:58.336 46df Generated table #17620@1: 84 keys, 775838 bytes
+2021/07/12-10:47:58.336 46df Compacted 1@1 + 1@2 files => 775838 bytes
+2021/07/12-10:47:58.346 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/12-10:47:58.347 46df Delete type=2 #17617
+2021/07/12-10:47:58.347 46df Delete type=2 #17619
+2021/07/12-11:10:05.260 46df Level-0 table #17622: started
+2021/07/12-11:10:05.331 46df Level-0 table #17622: 1608732 bytes OK
+2021/07/12-11:10:05.341 46df Delete type=0 #17618
+2021/07/12-11:13:32.038 46df Level-0 table #17624: started
+2021/07/12-11:13:32.105 46df Level-0 table #17624: 1509421 bytes OK
+2021/07/12-11:13:32.113 46df Delete type=0 #17621
+2021/07/12-11:14:27.129 46df Level-0 table #17626: started
+2021/07/12-11:14:27.182 46df Level-0 table #17626: 1508569 bytes OK
+2021/07/12-11:14:27.195 46df Delete type=0 #17623
+2021/07/12-11:20:05.796 46df Compacting 2@0 + 1@1 files
+2021/07/12-11:20:05.823 46df Generated table #17627@0: 34 keys, 544803 bytes
+2021/07/12-11:20:05.823 46df Compacted 2@0 + 1@1 files => 544803 bytes
+2021/07/12-11:20:05.840 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/12-11:20:05.840 46df Delete type=2 #17622
+2021/07/12-11:20:05.840 46df Delete type=2 #17624
+2021/07/12-11:20:05.840 46df Delete type=2 #17626
+2021/07/12-12:18:55.194 46df Compacting 1@1 + 1@2 files
+2021/07/12-12:18:55.214 46df Generated table #17628@1: 101 keys, 780853 bytes
+2021/07/12-12:18:55.214 46df Compacted 1@1 + 1@2 files => 780853 bytes
+2021/07/12-12:18:55.222 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/12-12:18:55.224 46df Delete type=2 #17620
+2021/07/12-12:18:55.225 46df Delete type=2 #17627
+2021/07/12-12:18:55.816 46df Level-0 table #17630: started
+2021/07/12-12:18:55.844 46df Level-0 table #17630: 1522454 bytes OK
+2021/07/12-12:18:55.851 46df Delete type=0 #17625
+2021/07/12-12:21:56.254 46df Level-0 table #17632: started
+2021/07/12-12:21:56.294 46df Level-0 table #17632: 1516891 bytes OK
+2021/07/12-12:21:56.303 46df Delete type=0 #17629
+2021/07/12-12:25:26.613 46df Level-0 table #17634: started
+2021/07/12-12:25:26.645 46df Level-0 table #17634: 1539961 bytes OK
+2021/07/12-12:25:26.658 46df Delete type=0 #17631
+2021/07/12-12:28:57.252 46df Level-0 table #17636: started
+2021/07/12-12:28:57.282 46df Level-0 table #17636: 1069570 bytes OK
+2021/07/12-12:28:57.290 46df Delete type=0 #17633
+2021/07/12-12:33:58.615 46df Compacting 3@0 + 1@1 files
+2021/07/12-12:33:58.640 46df Generated table #17637@0: 29 keys, 542377 bytes
+2021/07/12-12:33:58.640 46df Compacted 3@0 + 1@1 files => 542377 bytes
+2021/07/12-12:33:58.646 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/12-12:33:58.647 46df Delete type=2 #17634
+2021/07/12-12:33:58.647 46df Delete type=2 #17632
+2021/07/12-12:33:58.647 46df Delete type=2 #17636
+2021/07/12-12:33:58.647 46df Delete type=2 #17630
+2021/07/12-12:46:01.599 46df Compacting 1@1 + 1@2 files
+2021/07/12-12:46:01.614 46df Generated table #17638@1: 94 keys, 781324 bytes
+2021/07/12-12:46:01.614 46df Compacted 1@1 + 1@2 files => 781324 bytes
+2021/07/12-12:46:01.621 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/12-12:46:01.621 46df Delete type=2 #17637
+2021/07/12-12:46:01.621 46df Delete type=2 #17628
+2021/07/12-13:14:28.752 46df Level-0 table #17640: started
+2021/07/12-13:14:28.767 46df Level-0 table #17640: 678610 bytes OK
+2021/07/12-13:14:28.778 46df Delete type=0 #17635
+2021/07/12-13:29:09.252 46df Compacting 1@1 + 1@2 files
+2021/07/12-13:29:09.273 46df Generated table #17641@1: 90 keys, 778491 bytes
+2021/07/12-13:29:09.273 46df Compacted 1@1 + 1@2 files => 778491 bytes
+2021/07/12-13:29:09.281 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/12-13:29:09.282 46df Delete type=2 #17640
+2021/07/12-13:29:09.282 46df Delete type=2 #17638
+2021/07/12-13:52:13.081 46df Level-0 table #17643: started
+2021/07/12-13:52:13.122 46df Level-0 table #17643: 1540707 bytes OK
+2021/07/12-13:52:13.133 46df Delete type=0 #17639
+2021/07/12-14:05:15.099 46df Compacting 1@1 + 1@2 files
+2021/07/12-14:05:15.124 46df Generated table #17644@1: 96 keys, 779548 bytes
+2021/07/12-14:05:15.124 46df Compacted 1@1 + 1@2 files => 779548 bytes
+2021/07/12-14:05:15.131 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/12-14:05:15.131 46df Delete type=2 #17641
+2021/07/12-14:05:15.131 46df Delete type=2 #17643
+2021/07/12-14:22:15.259 46df Level-0 table #17646: started
+2021/07/12-14:22:15.295 46df Level-0 table #17646: 1557784 bytes OK
+2021/07/12-14:22:15.305 46df Delete type=0 #17642
+2021/07/12-14:30:17.418 46df Level-0 table #17648: started
+2021/07/12-14:30:17.465 46df Level-0 table #17648: 1515132 bytes OK
+2021/07/12-14:30:17.476 46df Delete type=0 #17645
+2021/07/12-14:38:20.140 46df Compacting 1@0 + 1@1 files
+2021/07/12-14:38:20.160 46df Generated table #17649@0: 20 keys, 542117 bytes
+2021/07/12-14:38:20.160 46df Compacted 1@0 + 1@1 files => 542117 bytes
+2021/07/12-14:38:20.167 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/12-14:38:20.167 46df Delete type=2 #17648
+2021/07/12-14:38:20.167 46df Delete type=2 #17646
+2021/07/12-14:45:21.309 46df Level-0 table #17651: started
+2021/07/12-14:45:21.345 46df Level-0 table #17651: 1540350 bytes OK
+2021/07/12-14:45:21.354 46df Delete type=0 #17647
+2021/07/12-14:55:23.082 46df Compacting 1@0 + 1@1 files
+2021/07/12-14:55:23.100 46df Generated table #17652@0: 24 keys, 542213 bytes
+2021/07/12-14:55:23.100 46df Compacted 1@0 + 1@1 files => 542213 bytes
+2021/07/12-14:55:23.108 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/12-14:55:23.109 46df Delete type=2 #17649
+2021/07/12-14:55:23.109 46df Delete type=2 #17651
+2021/07/12-15:12:15.778 46df Compacting 1@1 + 1@2 files
+2021/07/12-15:12:15.812 46df Generated table #17653@1: 91 keys, 778310 bytes
+2021/07/12-15:12:15.812 46df Compacted 1@1 + 1@2 files => 778310 bytes
+2021/07/12-15:12:15.820 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/12-15:12:15.821 46df Delete type=2 #17644
+2021/07/12-15:12:15.821 46df Delete type=2 #17652
+2021/07/12-15:17:04.629 46df Level-0 table #17655: started
+2021/07/12-15:17:04.652 46df Level-0 table #17655: 1108939 bytes OK
+2021/07/12-15:17:04.660 46df Delete type=0 #17650
+2021/07/12-15:21:27.330 46df Level-0 table #17657: started
+2021/07/12-15:21:27.362 46df Level-0 table #17657: 1510055 bytes OK
+2021/07/12-15:21:27.369 46df Delete type=0 #17654
+2021/07/12-19:39:22.989 46df Compacting 1@0 + 1@1 files
+2021/07/12-19:39:23.055 46df Generated table #17658@0: 27 keys, 545530 bytes
+2021/07/12-19:39:23.055 46df Compacted 1@0 + 1@1 files => 545530 bytes
+2021/07/12-19:39:23.070 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/12-19:39:23.071 46df Delete type=2 #17655
+2021/07/12-19:39:23.071 46df Delete type=2 #17657
+2021/07/12-19:41:23.690 46df Level-0 table #17660: started
+2021/07/12-19:41:23.739 46df Level-0 table #17660: 1530309 bytes OK
+2021/07/12-19:41:23.747 46df Delete type=0 #17656
+2021/07/12-19:51:25.861 46df Compacting 1@0 + 1@1 files
+2021/07/12-19:51:25.881 46df Generated table #17661@0: 32 keys, 545271 bytes
+2021/07/12-19:51:25.881 46df Compacted 1@0 + 1@1 files => 545271 bytes
+2021/07/12-19:51:25.896 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/12-19:51:25.896 46df Delete type=2 #17658
+2021/07/12-19:51:25.896 46df Delete type=2 #17660
+2021/07/12-19:59:22.831 46df Level-0 table #17663: started
+2021/07/12-19:59:22.870 46df Level-0 table #17663: 1133352 bytes OK
+2021/07/12-19:59:22.877 46df Delete type=0 #17659
+2021/07/12-20:08:28.053 46df Compacting 1@0 + 1@1 files
+2021/07/12-20:08:28.089 46df Generated table #17664@0: 33 keys, 542490 bytes
+2021/07/12-20:08:28.089 46df Compacted 1@0 + 1@1 files => 542490 bytes
+2021/07/12-20:08:28.094 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/12-20:08:28.094 46df Delete type=2 #17663
+2021/07/12-20:08:28.094 46df Delete type=2 #17661
+2021/07/13-11:16:57.835 46df Compacting 1@1 + 1@2 files
+2021/07/13-11:16:57.882 46df Generated table #17665@1: 86 keys, 777615 bytes
+2021/07/13-11:16:57.882 46df Compacted 1@1 + 1@2 files => 777615 bytes
+2021/07/13-11:16:57.890 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/13-11:16:57.891 46df Delete type=2 #17653
+2021/07/13-11:16:57.891 46df Delete type=2 #17664
+2021/07/13-11:16:58.246 46df Level-0 table #17667: started
+2021/07/13-11:16:58.291 46df Level-0 table #17667: 1569551 bytes OK
+2021/07/13-11:16:58.299 46df Delete type=0 #17662
+2021/07/13-11:17:23.348 46df Level-0 table #17669: started
+2021/07/13-11:17:23.389 46df Level-0 table #17669: 1510656 bytes OK
+2021/07/13-11:17:23.397 46df Delete type=0 #17666
+2021/07/13-11:17:23.989 46df Level-0 table #17671: started
+2021/07/13-11:17:24.028 46df Level-0 table #17671: 1509485 bytes OK
+2021/07/13-11:17:24.036 46df Delete type=0 #17668
+2021/07/13-11:17:28.888 46df Level-0 table #17673: started
+2021/07/13-11:17:28.933 46df Level-0 table #17673: 1510021 bytes OK
+2021/07/13-11:17:28.941 46df Delete type=0 #17670
+2021/07/13-11:17:34.087 46df Level-0 table #17675: started
+2021/07/13-11:17:34.125 46df Level-0 table #17675: 1510845 bytes OK
+2021/07/13-11:17:34.132 46df Delete type=0 #17672
+2021/07/13-11:17:34.133 46df Compacting 4@0 + 1@1 files
+2021/07/13-11:17:34.231 46df Generated table #17676@0: 30 keys, 545323 bytes
+2021/07/13-11:17:34.231 46df Compacted 4@0 + 1@1 files => 545323 bytes
+2021/07/13-11:17:34.238 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/13-11:17:34.238 46df Delete type=2 #17667
+2021/07/13-11:17:34.238 46df Delete type=2 #17671
+2021/07/13-11:17:34.238 46df Delete type=2 #17673
+2021/07/13-11:17:34.238 46df Delete type=2 #17669
+2021/07/13-11:17:34.238 46df Delete type=2 #17675
+2021/07/13-11:17:43.839 46df Level-0 table #17678: started
+2021/07/13-11:17:43.883 46df Level-0 table #17678: 1510615 bytes OK
+2021/07/13-11:17:43.891 46df Delete type=0 #17674
+2021/07/13-11:18:44.310 46df Level-0 table #17680: started
+2021/07/13-11:18:44.368 46df Level-0 table #17680: 1511551 bytes OK
+2021/07/13-11:18:44.376 46df Delete type=0 #17677
+2021/07/13-11:26:39.140 46df Compacting 2@0 + 1@1 files
+2021/07/13-11:26:39.170 46df Generated table #17681@0: 33 keys, 545047 bytes
+2021/07/13-11:26:39.170 46df Compacted 2@0 + 1@1 files => 545047 bytes
+2021/07/13-11:26:39.177 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/13-11:26:39.177 46df Delete type=2 #17676
+2021/07/13-11:26:39.177 46df Delete type=2 #17680
+2021/07/13-11:26:39.177 46df Delete type=2 #17678
+2021/07/13-12:47:42.119 46df Level-0 table #17683: started
+2021/07/13-12:47:42.176 46df Level-0 table #17683: 1565877 bytes OK
+2021/07/13-12:47:42.187 46df Delete type=0 #17679
+2021/07/13-12:56:43.334 46df Compacting 1@0 + 1@1 files
+2021/07/13-12:56:43.390 46df Generated table #17684@0: 40 keys, 544044 bytes
+2021/07/13-12:56:43.390 46df Compacted 1@0 + 1@1 files => 544044 bytes
+2021/07/13-12:56:43.397 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/13-13:08:44.769 46df Compacting 1@1 + 1@2 files
+2021/07/13-13:08:44.786 46df Generated table #17685@1: 89 keys, 778115 bytes
+2021/07/13-13:08:44.786 46df Compacted 1@1 + 1@2 files => 778115 bytes
+2021/07/13-13:08:44.796 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/13-13:08:44.797 46df Delete type=2 #17683
+2021/07/13-13:08:44.797 46df Delete type=2 #17681
+2021/07/13-13:08:44.797 46df Delete type=2 #17665
+2021/07/13-13:08:44.797 46df Delete type=2 #17684
+2021/07/13-13:55:46.664 46df Level-0 table #17687: started
+2021/07/13-13:55:46.690 46df Level-0 table #17687: 1110637 bytes OK
+2021/07/13-13:55:46.700 46df Delete type=0 #17682
+2021/07/13-14:10:53.428 46df Compacting 1@1 + 1@2 files
+2021/07/13-14:10:53.454 46df Generated table #17688@1: 91 keys, 779767 bytes
+2021/07/13-14:10:53.454 46df Compacted 1@1 + 1@2 files => 779767 bytes
+2021/07/13-14:10:53.464 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/13-14:10:53.466 46df Delete type=2 #17687
+2021/07/13-14:10:53.466 46df Delete type=2 #17685
+2021/07/13-14:45:29.940 46df Level-0 table #17690: started
+2021/07/13-14:45:29.960 46df Level-0 table #17690: 1096135 bytes OK
+2021/07/13-14:45:29.978 46df Delete type=0 #17686
+2021/07/13-14:45:39.669 46df Level-0 table #17692: started
+2021/07/13-14:45:39.703 46df Level-0 table #17692: 1510901 bytes OK
+2021/07/13-14:45:39.710 46df Delete type=0 #17689
+2021/07/13-14:53:59.582 46df Compacting 1@0 + 1@1 files
+2021/07/13-14:53:59.609 46df Generated table #17693@0: 19 keys, 542290 bytes
+2021/07/13-14:53:59.609 46df Compacted 1@0 + 1@1 files => 542290 bytes
+2021/07/13-14:53:59.625 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/13-14:53:59.626 46df Delete type=2 #17692
+2021/07/13-14:53:59.626 46df Delete type=2 #17690
+2021/07/13-15:09:01.664 46df Compacting 1@1 + 1@2 files
+2021/07/13-15:09:01.696 46df Generated table #17694@1: 91 keys, 779419 bytes
+2021/07/13-15:09:01.696 46df Compacted 1@1 + 1@2 files => 779419 bytes
+2021/07/13-15:09:01.715 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/13-15:09:01.715 46df Delete type=2 #17688
+2021/07/13-15:09:01.715 46df Delete type=2 #17693
+2021/07/13-15:20:10.592 46df Level-0 table #17696: started
+2021/07/13-15:20:10.621 46df Level-0 table #17696: 1124639 bytes OK
+2021/07/13-15:20:10.632 46df Delete type=0 #17691
+2021/07/13-15:20:15.585 46df Level-0 table #17698: started
+2021/07/13-15:20:15.616 46df Level-0 table #17698: 1511028 bytes OK
+2021/07/13-15:20:15.624 46df Delete type=0 #17695
+2021/07/13-15:27:03.703 46df Compacting 1@0 + 1@1 files
+2021/07/13-15:27:03.724 46df Generated table #17699@0: 21 keys, 542311 bytes
+2021/07/13-15:27:03.724 46df Compacted 1@0 + 1@1 files => 542311 bytes
+2021/07/13-15:27:03.727 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/13-15:27:03.728 46df Delete type=2 #17698
+2021/07/13-15:27:03.728 46df Delete type=2 #17696
+2021/07/13-15:47:06.394 46df Compacting 1@1 + 1@2 files
+2021/07/13-15:47:06.413 46df Generated table #17700@1: 91 keys, 778855 bytes
+2021/07/13-15:47:06.413 46df Compacted 1@1 + 1@2 files => 778855 bytes
+2021/07/13-15:47:06.420 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/13-15:47:06.420 46df Delete type=2 #17694
+2021/07/13-15:47:06.420 46df Delete type=2 #17699
+2021/07/13-16:13:31.673 46df Level-0 table #17702: started
+2021/07/13-16:13:31.710 46df Level-0 table #17702: 1601904 bytes OK
+2021/07/13-16:13:31.719 46df Delete type=0 #17697
+2021/07/13-16:25:11.942 46df Compacting 1@1 + 1@2 files
+2021/07/13-16:25:11.961 46df Generated table #17703@1: 98 keys, 781733 bytes
+2021/07/13-16:25:11.961 46df Compacted 1@1 + 1@2 files => 781733 bytes
+2021/07/13-16:25:11.969 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/13-16:25:11.969 46df Delete type=2 #17700
+2021/07/13-16:25:11.969 46df Delete type=2 #17702
+2021/07/13-16:32:13.126 46df Level-0 table #17705: started
+2021/07/13-16:32:13.170 46df Level-0 table #17705: 1525950 bytes OK
+2021/07/13-16:32:13.177 46df Delete type=0 #17701
+2021/07/13-16:40:15.957 46df Level-0 table #17707: started
+2021/07/13-16:40:15.992 46df Level-0 table #17707: 1552936 bytes OK
+2021/07/13-16:40:16.008 46df Delete type=0 #17704
+2021/07/13-16:50:16.016 46df Compacting 1@0 + 1@1 files
+2021/07/13-16:50:16.030 46df Generated table #17708@0: 22 keys, 541619 bytes
+2021/07/13-16:50:16.030 46df Compacted 1@0 + 1@1 files => 541619 bytes
+2021/07/13-16:50:16.037 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/13-16:50:16.038 46df Delete type=2 #17707
+2021/07/13-16:50:16.038 46df Delete type=2 #17705
+2021/07/13-17:00:19.335 46df Level-0 table #17710: started
+2021/07/13-17:00:19.381 46df Level-0 table #17710: 1524687 bytes OK
+2021/07/13-17:00:19.389 46df Delete type=0 #17706
+2021/07/13-17:08:19.334 46df Compacting 1@0 + 1@1 files
+2021/07/13-17:08:19.347 46df Generated table #17711@0: 27 keys, 545140 bytes
+2021/07/13-17:08:19.347 46df Compacted 1@0 + 1@1 files => 545140 bytes
+2021/07/13-17:08:19.357 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/13-17:08:19.357 46df Delete type=2 #17710
+2021/07/13-17:08:19.357 46df Delete type=2 #17708
+2021/07/13-17:08:47.629 46df Level-0 table #17713: started
+2021/07/13-17:08:47.653 46df Level-0 table #17713: 1097423 bytes OK
+2021/07/13-17:08:47.660 46df Delete type=0 #17709
+2021/07/13-17:18:22.000 46df Compacting 1@0 + 1@1 files
+2021/07/13-17:18:22.016 46df Generated table #17714@0: 40 keys, 548410 bytes
+2021/07/13-17:18:22.016 46df Compacted 1@0 + 1@1 files => 548410 bytes
+2021/07/13-17:18:22.027 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/13-17:18:22.027 46df Delete type=2 #17711
+2021/07/13-17:18:22.027 46df Delete type=2 #17713
+2021/07/13-17:33:24.096 46df Compacting 1@1 + 1@2 files
+2021/07/13-17:33:24.121 46df Generated table #17715@1: 102 keys, 784083 bytes
+2021/07/13-17:33:24.121 46df Compacted 1@1 + 1@2 files => 784083 bytes
+2021/07/13-17:33:24.127 46df compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/13-17:33:24.128 46df Delete type=2 #17703
+2021/07/13-17:33:24.128 46df Delete type=2 #17714
+2021/07/13-20:22:46.048 46df Level-0 table #17717: started
+2021/07/13-20:22:46.080 46df Level-0 table #17717: 1079299 bytes OK
+2021/07/13-20:22:46.095 46df Delete type=0 #17712
+2021/07/13-20:26:47.449 46df Level-0 table #17719: started
+2021/07/13-20:26:47.478 46df Level-0 table #17719: 1084015 bytes OK
+2021/07/13-20:26:47.486 46df Delete type=0 #17716
+2021/07/13-20:33:48.985 46df Level-0 table #17721: started
+2021/07/13-20:33:49.023 46df Level-0 table #17721: 1114504 bytes OK
+2021/07/13-20:33:49.032 46df Delete type=0 #17718
+2021/07/13-20:34:40.675 46df Level-0 table #17723: started
+2021/07/13-20:34:40.729 46df Level-0 table #17723: 1515622 bytes OK
+2021/07/13-20:34:40.737 46df Delete type=0 #17720
+2021/07/13-20:38:50.953 46df Compacting 3@0 + 1@1 files
+2021/07/13-20:38:50.980 46df Generated table #17724@0: 34 keys, 544902 bytes
+2021/07/13-20:38:50.980 46df Compacted 3@0 + 1@1 files => 544902 bytes
+2021/07/13-20:38:50.988 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/13-20:38:50.989 46df Delete type=2 #17717
+2021/07/13-20:38:50.989 46df Delete type=2 #17719
+2021/07/13-20:38:50.989 46df Delete type=2 #17721
+2021/07/13-20:38:50.989 46df Delete type=2 #17723

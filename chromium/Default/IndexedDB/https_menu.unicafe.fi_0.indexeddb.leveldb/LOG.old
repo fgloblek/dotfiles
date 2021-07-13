@@ -1,0 +1,5 @@
+2021/07/06-11:44:02.640 2a9a Reusing MANIFEST /home/fgloblek/.config/chromium/Default/IndexedDB/https_menu.unicafe.fi_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/06-14:02:14.177 1cf0 Level-0 table #5: started
+2021/07/06-14:02:14.183 1cf0 Level-0 table #5: 4500 bytes OK
+2021/07/06-14:02:14.190 1cf0 Delete type=0 #3
+2021/07/06-14:02:14.190 1cf0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

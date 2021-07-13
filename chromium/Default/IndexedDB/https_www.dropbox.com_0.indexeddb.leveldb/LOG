@@ -1,0 +1,15 @@
+2021/07/10-21:53:01.073 66bd Reusing MANIFEST /home/fgloblek/.config/chromium/Default/IndexedDB/https_www.dropbox.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/10-21:53:01.073 66bd Recovering log #11
+2021/07/10-21:53:01.074 66bd Reusing old log /home/fgloblek/.config/chromium/Default/IndexedDB/https_www.dropbox.com_0.indexeddb.leveldb/000011.log 
+2021/07/10-22:18:18.597 1e21 Level-0 table #16: started
+2021/07/10-22:18:18.610 1e21 Level-0 table #16: 184515 bytes OK
+2021/07/10-22:18:18.618 1e21 Delete type=0 #11
+2021/07/10-22:18:18.618 1e21 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/07/10-22:18:18.618 1e21 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x02\x02\x01\x0f\x00l\x00a\x00s\x00t\x00P\x00u\x00b\x00l\x00i\x00s\x00h\x00T\x00i\x00m\x00e' @ 4700 : 1
+2021/07/10-22:18:18.618 1e21 Compacting 1@1 + 1@2 files
+2021/07/10-22:18:18.628 1e21 Generated table #17@1: 51 keys, 1913 bytes
+2021/07/10-22:18:18.628 1e21 Compacted 1@1 + 1@2 files => 1913 bytes
+2021/07/10-22:18:18.636 1e21 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/10-22:18:18.636 1e21 Delete type=2 #16
+2021/07/10-22:18:18.636 1e21 Delete type=2 #13
+2021/07/10-22:18:18.637 1e21 Manual compaction at level-1 from '\x00\x01\x02\x02\x01\x0f\x00l\x00a\x00s\x00t\x00P\x00u\x00b\x00l\x00i\x00s\x00h\x00T\x00i\x00m\x00e' @ 4700 : 1 .. (end); will stop at (end)

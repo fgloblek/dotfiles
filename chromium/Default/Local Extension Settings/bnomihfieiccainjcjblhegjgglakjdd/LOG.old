@@ -1,0 +1,33 @@
+2021/07/05-15:34:30.752 1c2c Reusing MANIFEST /home/fgloblek/.config/chromium/Default/Local Extension Settings/bnomihfieiccainjcjblhegjgglakjdd/MANIFEST-000001
+2021/07/05-15:34:30.756 1c2c Recovering log #610
+2021/07/05-15:34:30.781 1c2c Reusing old log /home/fgloblek/.config/chromium/Default/Local Extension Settings/bnomihfieiccainjcjblhegjgglakjdd/000610.log 
+2021/07/05-15:47:58.255 1ea1 Level-0 table #615: started
+2021/07/05-15:47:58.330 1ea1 Level-0 table #615: 2191094 bytes OK
+2021/07/05-15:47:58.338 1ea1 Delete type=0 #610
+2021/07/06-13:17:25.044 1ea1 Compacting 1@1 + 1@2 files
+2021/07/06-13:17:25.052 1ea1 Generated table #616@1: 18 keys, 117261 bytes
+2021/07/06-13:17:25.052 1ea1 Compacted 1@1 + 1@2 files => 117261 bytes
+2021/07/06-13:17:25.059 1ea1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/06-13:17:25.059 1ea1 Delete type=2 #615
+2021/07/06-13:17:25.059 1ea1 Delete type=2 #612
+2021/07/06-14:20:56.651 1ea1 Level-0 table #618: started
+2021/07/06-14:20:56.681 1ea1 Level-0 table #618: 1869514 bytes OK
+2021/07/06-14:20:56.690 1ea1 Delete type=0 #614
+2021/07/06-15:29:11.229 1ea1 Compacting 1@1 + 1@2 files
+2021/07/06-15:29:11.240 1ea1 Generated table #619@1: 18 keys, 117404 bytes
+2021/07/06-15:29:11.240 1ea1 Compacted 1@1 + 1@2 files => 117404 bytes
+2021/07/06-15:29:11.247 1ea1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/06-15:29:11.248 1ea1 Delete type=2 #618
+2021/07/06-15:29:11.248 1ea1 Delete type=2 #616
+2021/07/06-20:21:36.451 1ea1 Level-0 table #621: started
+2021/07/06-20:21:36.493 1ea1 Level-0 table #621: 2100159 bytes OK
+2021/07/06-20:21:36.502 1ea1 Delete type=0 #617
+2021/07/07-13:45:51.820 1ea1 Compacting 1@1 + 1@2 files
+2021/07/07-13:45:51.836 1ea1 Generated table #622@1: 18 keys, 117857 bytes
+2021/07/07-13:45:51.836 1ea1 Compacted 1@1 + 1@2 files => 117857 bytes
+2021/07/07-13:45:51.843 1ea1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/07-14:24:45.980 1ea1 Level-0 table #624: started
+2021/07/07-14:24:46.018 1ea1 Level-0 table #624: 2106846 bytes OK
+2021/07/07-14:24:46.028 1ea1 Delete type=0 #620
+2021/07/07-14:24:46.028 1ea1 Delete type=2 #619
+2021/07/07-14:24:46.028 1ea1 Delete type=2 #621

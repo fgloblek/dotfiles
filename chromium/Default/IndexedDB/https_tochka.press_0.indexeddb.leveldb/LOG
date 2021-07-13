@@ -1,0 +1,5 @@
+2021/07/09-12:18:45.918 47e8 Reusing MANIFEST /home/fgloblek/.config/chromium/Default/IndexedDB/https_tochka.press_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/09-13:56:30.179 1e21 Level-0 table #5: started
+2021/07/09-13:56:30.185 1e21 Level-0 table #5: 821 bytes OK
+2021/07/09-13:56:30.193 1e21 Delete type=0 #3
+2021/07/09-13:56:30.193 1e21 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

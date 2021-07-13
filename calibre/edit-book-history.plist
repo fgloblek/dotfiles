@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lineedit_history_tweak_book_find_edit</key>
+	<array>
+		<string>&lt;p&gt;Digitized by \w+ \&lt;\/p&gt;</string>
+		<string>&lt;p&gt;Digitized by \w &lt;/p&gt;</string>
+		<string>&lt;p&gt;Digitized by [a-Z]&lt;/p&gt;</string>
+		<string>&lt;p&gt;Digitized by &lt;/p&gt;</string>
+		<string>&lt;p&gt;Digitized by [*] &lt;/p&gt;</string>
+		<string>&lt;p&gt;Digitized by LjOOQIC &lt;/p&gt;</string>
+		<string>&lt;p&gt;Digitized by &lt;/p&gt;&lt;p&gt;Google &lt;/p&gt;</string>
+		<string>digitalised</string>
+		<string>digitalized</string>
+		<string>garamond-12-4-italics</string>
+		<string>img</string>
+		<string>&lt;\/p&gt;&lt;p&gt;[0-9]+</string>
+		<string>&lt;\p&gt;&lt;p&gt;[0-9]+</string>
+		<string>\.[0-9]+</string>
+		<string>&lt;\/p&gt;&lt;p&gt;[0-9]+.</string>
+		<string>&lt;\/p&gt;&lt;p&gt;[0-9]+\.</string>
+		<string>&lt;\/p&gt;&lt;p&gt;.[0-9]+</string>
+		<string>[0-9]+.&lt;\/p&gt;&lt;p&gt;</string>
+		<string>&lt;\/p&gt;\n.*&lt;span.*?&gt;&lt;p&gt;</string>
+		<string>/&lt;\/p&gt;\n.*&lt;span.*?&gt;&lt;p&gt;/gm</string>
+		<string>&lt;\/p&gt;.*?\n.*?"\/&gt;&lt;p&gt;</string>
+		<string>/&lt;\/p&gt;.*?\n.*?"\/&gt;&lt;p&gt;/gm</string>
+		<string>&lt;\/p&gt;\n&lt;span.*?\n.*?\&lt;p&gt;</string>
+		<string>&lt;\/p&gt;\n&lt;span.*?\n.*?&lt;p&gt;</string>
+		<string>&lt;\/p&gt;.*?\n.*?&lt;p&gt;</string>
+		<string>&lt;\/p&gt;.*?\n.*?p&gt;</string>
+		<string>/&lt;\/p&gt;.*?\n.*?p&gt;</string>
+		<string>/&lt;\/p&gt;.*?\n.*?&lt;p&gt;</string>
+		<string>/&lt;\/p&gt;.*?\n.*?&lt;p&gt;/gm</string>
+		<string>&lt;/p&gt;.*?\n&lt;span.*?p&gt;</string>
+		<string>&lt;/p&gt;\n&lt;span.*?p&gt;</string>
+		<string>&lt;/p&gt;&lt;span.*?p&gt;</string>
+		<string>&lt;/p&gt;.*?p&gt;</string>
+		<string>&lt;p&gt;[0-9]+.*?p&gt;</string>
+		<string>&lt;p&gt;[0-9]+</string>
+		<string>&lt;p&gt;[0-9]+p&gt;</string>
+		<string>&lt;div style=".*?\n.*\n.*\n</string>
+		<string>&lt;div style=".*?\n.*\n.*&lt;/div&gt;</string>
+		<string>&lt;div style=".*?\n.*\n.*&gt;</string>
+		<string>&lt;div style=".*?\n.*\n.*div&gt;</string>
+		<string>/&lt;div style=".*?\n.*\n.*&gt;</string>
+		<string>&lt;div.*&lt;img.*?&gt;*?&lt;/div&gt;</string>
+		<string>&lt;img.*?&gt; </string>
+		<string>&lt;img.*&gt; </string>
+		<string>&lt;img.4?&gt; </string>
+		<string>&lt;div.?&gt; </string>
+		<string>&lt;div.&gt; </string>
+		<string>&lt;div.*&gt; </string>
+		<string>&lt;p.*&gt; </string>
+		<string>&lt;p.*?&gt; </string>
+		<string>&lt;div.*?&gt; </string>
+		<string>&lt;img.?</string>
+		<string>&lt;img?</string>
+		<string>&lt;img</string>
+		<string>&lt;img.*?/&gt;</string>
+		<string>&lt;img.*?.*?/&gt;</string>
+		<string>&lt;img.*?&gt;.*?&lt;/&gt;</string>
+		<string>&lt;img \w /&gt;</string>
+		<string>&lt;img </string>
+	</array>
+	<key>lineedit_history_tweak_book_replace_edit</key>
+	<array>
+		<string>no-style-override5</string>
+		<string>.</string>
+		<string> </string>
+	</array>
+</dict>
+</plist>

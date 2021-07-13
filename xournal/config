@@ -23,7 +23,7 @@ zoom_dialog_increment=1
 # the multiplicative factor for zoom in/out
 zoom_step_factor=1.500
 # continuous view (false = one page, true = continuous, horiz = horizontal)
-view_continuous=true
+view_continuous=false
 # use XInput extensions (true/false)
 use_xinput=true
 # discard Core Pointer events in XInput mode (true/false)

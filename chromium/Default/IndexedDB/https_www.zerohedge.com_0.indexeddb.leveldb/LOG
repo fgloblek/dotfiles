@@ -1,0 +1,5 @@
+2021/07/06-14:24:07.062 36a6 Reusing MANIFEST /home/fgloblek/.config/chromium/Default/IndexedDB/https_www.zerohedge.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/06-15:19:50.597 1cf0 Level-0 table #5: started
+2021/07/06-15:19:50.603 1cf0 Level-0 table #5: 1117 bytes OK
+2021/07/06-15:19:50.611 1cf0 Delete type=0 #3
+2021/07/06-15:19:50.611 1cf0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

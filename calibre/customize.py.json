@@ -1,0 +1,21 @@
+{
+  "disabled_plugins": {
+    "__class__": "set",
+    "__value__": []
+  },
+  "enabled_plugins": {
+    "__class__": "set",
+    "__value__": [
+      "DeDRM"
+    ]
+  },
+  "filetype_mapping": {},
+  "plugin_customization": {},
+  "plugins": {
+    "Annotations": "/home/fgloblek/.config/calibre/plugins/Annotations.zip",
+    "DeDRM": "/home/fgloblek/.config/calibre/plugins/DeDRM.zip",
+    "Kindle Collections": "/home/fgloblek/.config/calibre/plugins/Kindle Collections.zip",
+    "Reading List": "/home/fgloblek/.config/calibre/plugins/Reading List.zip",
+    "Search The Internet": "/home/fgloblek/.config/calibre/plugins/Search The Internet.zip"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "4054:00000000": {
+    "_modelId": "000000000000",
+    "_name": "Wireless Mouse M185 new",
+    "_unitId": "00000000",
+    "divert-keys": {
+      "82": 0
+    },
+    "lowres-smooth-scroll": false,
+    "pointer_speed": 256,
+    "reprogrammable-keys": {
+      "80": 80,
+      "81": 81,
+      "82": 82
+    }
+  },
+  "_version": "1.0.5"
+}

@@ -1,3 +1,4 @@
 function fish_greeting
-    fortune -a
+    #fortune -a
+    curl "wttr.in/?1Fqn"
 end

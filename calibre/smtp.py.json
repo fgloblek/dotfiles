@@ -1,0 +1,18 @@
+{
+  "accounts": {
+    "fran.globlek_Qz9AR3yZzzzz@kindle.com": [
+      "AZW, MOBI, TPZ, PRC, AZW1",
+      true,
+      true
+    ]
+  },
+  "aliases": {},
+  "encryption": "TLS",
+  "from_": "fgloblek@gmx.com",
+  "relay_host": "mail.gmx.com",
+  "relay_password": "42216f6e31636d616e",
+  "relay_port": 587,
+  "relay_username": "fgloblek@gmx.com",
+  "subjects": {},
+  "tags": {}
+}

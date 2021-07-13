@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PrisonLaborPrefsData>
+  <defaultInteraction>PrisonLabor_workOption</defaultInteraction>
+  <allowed_works></allowed_works>
+  <allow_all_worktypes>False</allow_all_worktypes>
+  <advanced_growing>False</advanced_growing>
+  <enable_motivation_mechanics>True</enable_motivation_mechanics>
+  <enable_motivation_icons>True</enable_motivation_icons>
+  <enable_revolts>True</enable_revolts>
+  <show_treatment_happiness>False</show_treatment_happiness>
+  <enable_suicide>True</enable_suicide>
+  <last_version>v1_1_3</last_version>
+  <show_news>True</show_news>
+  <enable_reports>False</enable_reports>
+  <tutorials_flags>None</tutorials_flags>
+  <version>v1_1_3</version>
+</PrisonLaborPrefsData>

@@ -1,0 +1,20 @@
+2021/07/09-11:56:59.671 1d34 Recovering log #3586
+2021/07/09-11:56:59.672 1d34 Level-0 table #3588: started
+2021/07/09-11:56:59.677 1d34 Level-0 table #3588: 3796 bytes OK
+2021/07/09-11:56:59.692 1d34 Delete type=3 #3584
+2021/07/09-11:56:59.692 1d34 Delete type=0 #3586
+2021/07/10-08:49:38.083 46df Level-0 table #3591: started
+2021/07/10-08:49:38.093 46df Level-0 table #3591: 11821 bytes OK
+2021/07/10-08:49:38.105 46df Delete type=0 #3589
+2021/07/10-08:54:37.195 46df Level-0 table #3593: started
+2021/07/10-08:54:37.205 46df Level-0 table #3593: 9787 bytes OK
+2021/07/10-08:54:37.216 46df Delete type=0 #3590
+2021/07/10-08:54:37.216 46df Compacting 4@0 + 1@1 files
+2021/07/10-08:54:37.223 46df Generated table #3594@0: 18 keys, 8489 bytes
+2021/07/10-08:54:37.223 46df Compacted 4@0 + 1@1 files => 8489 bytes
+2021/07/10-08:54:37.230 46df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/10-08:54:37.231 46df Delete type=2 #3593
+2021/07/10-08:54:37.232 46df Delete type=2 #3585
+2021/07/10-08:54:37.232 46df Delete type=2 #3583
+2021/07/10-08:54:37.232 46df Delete type=2 #3591
+2021/07/10-08:54:37.232 46df Delete type=2 #3588

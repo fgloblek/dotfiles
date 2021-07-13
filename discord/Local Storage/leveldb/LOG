@@ -1,0 +1,5 @@
+2021/07/13-20:27:32.608 1245 Reusing MANIFEST /home/fgloblek/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2021/07/13-20:27:32.610 1245 Recovering log #928
+2021/07/13-20:27:32.611 1245 Level-0 table #932: started
+2021/07/13-20:27:32.618 1245 Level-0 table #932: 13244 bytes OK
+2021/07/13-20:27:32.626 1245 Delete type=0 #928
